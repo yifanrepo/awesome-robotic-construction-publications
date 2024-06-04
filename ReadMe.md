@@ -1,12 +1,73 @@
 Additive Manufacturing
 ======================
 
+
 Auxetics
 --------
 
 
+Concrete
+--------
+
+
+Cellulose-chitosan
+------------------
+
+
+Carbon Fibre
+------------
+
+
+Fibre-reinforced Plastic
+------------------------
+
+
+Thermoplastic Polyurethane
+--------------------------
+
+
+Thermoplastic Resin
+-------------------
+
+
 Assembly
 ========
+
+
+Boulder
+-------
+
+
+Brick
+-----
+
+
+Concrete Block
+--------------
+
+
+Façade
+------
+
+
+Lightweight Steel Structure
+---------------------------
+
+
+Lightweight Partition Wall
+--------------------------
+
+
+Masonry Arch
+------------
+
+
+Polyurethane Foam Module
+------------------------
+
+
+Timber Slat
+-----------
 
 
 Excavation
@@ -15,6 +76,14 @@ Excavation
 
 Fabrication
 ===========
+
+
+Timber Slat Milling
+-------------------
+
+
+Timber Lamination Milling
+-------------------------
 
 
 Material Transportation
@@ -31,6 +100,10 @@ Surveying
 
 Recycling and Sorting
 =====================
+
+
+Construction Waste
+------------------
 
 
 Slip Forming
