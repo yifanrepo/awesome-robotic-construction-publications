@@ -1,116 +1,116 @@
-1. Additive Manufacturing
+Additive Manufacturing
 =====================
 
 
-1.1 Auxetics
+* Auxetics
 --------
 
 
-1.2 Concrete
+* Concrete
 --------
 
 
-1.3 Cellulose-chitosan
+* Cellulose-chitosan
 ------------------
 
 
-1.4 Carbon Fibre
+* Carbon Fibre
 ------------
 
 
-1.5 Fibre-reinforced Plastic
+* Fibre-reinforced Plastic
 ------------------------
 
 
-1.6 Thermoplastic Polyurethane
+* Thermoplastic Polyurethane
 --------------------------
 
 
-1.7 Thermoplastic Resin
+* Thermoplastic Resin
 -------------------
 
 
-2. Assembly
+Assembly
 ========
 
 
-2.1 Boulder
+* Boulder
 -------
 
 
-2.2 Brick
+* Brick
 -----
 
 
-2.3 Concrete Block
+* Concrete Block
 --------------
 
 
-2.4 Façade
+* Façade
 ------
 
 
-2.5 Lightweight Steel Structure
+* Lightweight Steel Structure
 ---------------------------
 
 
-2.6 Lightweight Partition Wall
+* Lightweight Partition Wall
 --------------------------
 
 
-2.7 Masonry Arch
+* Masonry Arch
 ------------
 
 
-2.8 Polyurethane Foam Module
+* Polyurethane Foam Module
 ------------------------
 
 
-2.9 Timber Slat
+* Timber Slat
 -----------
 
 
-3. Excavation
+Excavation
 ==========
 
 
-4. Fabrication
+Fabrication
 ===========
 
 
-4.1 Timber Slat Milling
+* Timber Slat Milling
 -------------------
 
 
-4.2 Timber Lamination Milling
+* Timber Lamination Milling
 -------------------------
 
 
-5. Material Transportation
+Material Transportation
 =======================
 
 
-6. Site Inspection
+Site Inspection
 ===============
 
 
-7. Surveying
+Surveying
 =========
 
 
-8. Recycling and Sorting
+Recycling and Sorting
 =====================
 
 
-8.1 Construction Waste
+* Construction Waste
 ------------------
 
 
-9. Slip Forming
+Slip Forming
 ============
 
 
-10. Wall Painting
+Wall Painting
 =============
 
 
