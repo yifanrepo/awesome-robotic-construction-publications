@@ -51,11 +51,20 @@ The studies on robotic assembly featured a number of construction materials, nam
 [2] Nubert, J., Khattak, S., & Hutter, M. (2022). Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots. 2022 International Conference on Robotics and Automation (ICRA), 10048–10054. https://doi.org/https://doi.org/10.1109/ICRA46639.2022.9812386
 
 * Brick
- 
 
+[1] Liyanage, T., & Fernando, S. (2021). Optimizing Robotic Swarm Based Construction Tasks. 2021 7th International Conference on Control, Automation and Robotics (ICCAR), 89–92. https://doi.org/10.1109/ICCAR52225.2021.9463439
+
+[2] Wu, H., Lu, M., Zhou, X., & Yuan, P. F. (2022). Application of 6-Dof Robot Motion Planning in Fabrication. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 340–348). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_31
+
+[3] Nedungadi, A. S., & Saska, M. (2020). Design of an Active-Reliable Grasping Mechanism for Autonomous Unmanned Aerial Vehicles BT - Modelling and Simulation for Autonomous Systems (J. Mazal, A. Fagiolini, & P. Vasik, Eds.). Cham: Springer International Publishing.
+
+[4] Krizmancic, M., Arbanas, B., Petrovic, T., Petric, F., & Bogdan, S. (2020). Cooperative Aerial-Ground Multi-Robot System for Automated Construction Tasks. IEEE Robotics and Automation Letters, 5(2), 798–805. https://doi.org/10.1109/LRA.2020.2965855
+
+[5] Goessens, S., Mueller, C., & Latteur, P. (2018). Feasibility study for drone-based masonry construction of real-scale structures. Automation in Construction, 94, 458–480. https://doi.org/https://doi.org/10.1016/j.autcon.2018.06.015
 
 * Concrete Block
 
+[1] Ding, L., Jiang, W., Zhou, Y., Zhou, C., & Liu, S. (2020). BIM-based task-level planning for robotic brick assembly through image-based 3D modeling. Advanced Engineering Informatics, 43, 100993. https://doi.org/10.1016/j.aei.2019.100993
  
 
 * Façade
