@@ -3,7 +3,6 @@ Additive Manufacturing
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
 * Auxetics
---------
 Özdemir, E., Kiesewetter, L., Antorveza, K., Cheng, T., Leder, S., Wood, D., & Menges, A. (2022). Towards Self-shaping Metamaterial Shells. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 275–285). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_26
 
 * Concrete
