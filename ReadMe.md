@@ -9,9 +9,13 @@ The additive manufacturing-focused studies conducted their works with the follow
 * Concrete
 
 [1] Ali, M. H., Kuralbay, Y., Aitmaganbet, A., & Kamal, M. A. S. (2022). Design of a 6-DOF robot manipulator for 3D printed construction. Materials Today: Proceedings, 49, 1462–1468. https://doi.org/https://doi.org/10.1016/j.matpr.2021.07.228
+
 [2] Nguyen-Van, S., & Gwak, K.-W. (2022). A two-nozzle cable-driven parallel robot for 3D printing building construction: path optimization and vibration analysis. The International Journal of Advanced Manufacturing Technology, 120(5), 3325–3338. https://doi.org/10.1007/s00170-022-08919-5
+
 [3] Wan, Q., Wang, L., & Ma, G. (2021). Adaptable Tool-Path Planning Method for 3D Concrete Printing Based on the Mapping Method. In P. F. Yuan, J. Yao, C. Yan, X. Wang, & N. Leach (Eds.), Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication (pp. 255–264). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-33-4400-6_24
+
 [4] Naboni, R., Kunic, A., Marino, D., & Hajikarimian, H. (2022). Robotic zip-bending of wood structures with programmable curvature. Architecture, Structures and Construction, 2(1), 63–82. https://doi.org/https://doi.org/10.1007/s44150-022-00030-3
+
 [5] Breseghello, L., & Naboni, R. (2022). Adaptive Toolpath: Enhanced Design and Process Control for Robotic 3DCP. In D. Gerber, E. Pantazis, B. Bogosian, A. Nahmad, & C. Miltiadis (Eds.), Computer-Aided Architectural Design. Design Imperatives: The Future is Now (pp. 301–316). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-19-1280-1_19
 
 * Cellulose-chitosan
@@ -21,6 +25,7 @@ The additive manufacturing-focused studies conducted their works with the follow
 * Carbon Fibre
 
 [1] Mohamed, H., Bao, D. W., & Snooks, R. (2021). Super Composite: Carbon Fibre Infused 3D Printed Tectonics. In P. F. Yuan, J. Yao, C. Yan, X. Wang, & N. Leach (Eds.), Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication (pp. 297–308). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-33-4400-6_28
+
 [2] Lu, M., Zhu, W. R., & Yuan, P. F. (2020). Toward a Collaborative Robotic Platform: FUROBOT. In P. F. Yuan, M. Xie, N. Leach, J. Yao, & X. Wang (Eds.), Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication (pp. 87–101). Singapore: Springer Nature Singapore. https://doi.org/https://doi.org/10.1007/978-981-15-6568-7_6
 
 * Fibre-reinforced Plastic
@@ -42,6 +47,7 @@ The studies on robotic assembly featured a number of construction materials, nam
 * Boulder
  
 [1] Wermelinger, M., Johns, R., Gramazio, F., Kohler, M., & Hutter, M. (2021). Grasping and Object Reorientation for Autonomous Construction of Stone Structures. IEEE Robotics and Automation Letters, 6(3), 5105–5112. https://doi.org/https://doi.org/10.1109/LRA.2021.3070300
+
 [2] Nubert, J., Khattak, S., & Hutter, M. (2022). Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots. 2022 International Conference on Robotics and Automation (ICRA), 10048–10054. https://doi.org/https://doi.org/10.1109/ICRA46639.2022.9812386
 
 * Brick
