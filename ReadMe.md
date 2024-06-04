@@ -1,31 +1,45 @@
 Additive Manufacturing
 ======================
 
+Auxetics
+--------
+
+
 Assembly
+========
 
 
 Excavation
+==========
 
 
 Fabrication
+===========
 
 
 Material Transportation
+=======================
 
 
 Site Inspection
+===============
 
 
 Surveying
+=========
 
 
 Recycling and Sorting
+=====================
 
 
 Slip Forming
+============
 
 
 Wall Painting
+=============
+
 
 Ali, A. K., Lee, O. J., & Song, H. (2021). Robot-based facade spatial assembly optimization. Journal of Building Engineering, 33, 101556. https://doi.org/https://doi.org/10.1016/j.jobe.2020.101556
 Ali, M. H., Kuralbay, Y., Aitmaganbet, A., & Kamal, M. A. S. (2022). Design of a 6-DOF robot manipulator for 3D printed construction. Materials Today: Proceedings, 49, 1462–1468. https://doi.org/https://doi.org/10.1016/j.matpr.2021.07.228
