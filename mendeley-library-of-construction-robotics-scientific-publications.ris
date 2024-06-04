@@ -1,0 +1,1212 @@
+﻿TY  - CONF
+AU  - Özdemir, E
+AU  - Kiesewetter, L
+AU  - Antorveza, K
+AU  - Cheng, T
+AU  - Leder, S
+AU  - Wood, D
+AU  - Menges, A
+DA  - 2022
+PY  - 2022
+AB  - Double curvature enables elegant and material-efficient shell structures, but their construction typically relies on heavy machining, manual labor, and the additional use of material wasted as one-off formwork. Using a material’s intrinsic properties for self-shaping is an energy and resource-efficient solution to this problem. This research presents a fabrication approach for self-shaping double-curved shell structures combining the hygroscopic shape-changing and scalability of wood actuators with the tunability of 3D-printed metamaterial patterning. Using hybrid robotic fabrication, components are additively manufactured flat and self-shape to a pre-programmed configuration through drying. A computational design workflow including a lattice and shell-based finite element model was developed for the design of the metamaterial pattern, actuator layout, and shape prediction. The workflow was tested through physical prototypes at centimeter and meter scales. The results show an architectural scale proof of concept for self-shaping double-curved shell structures as a resource-efficient physical form generation method.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-16-5983-6_26
+SN  - 978-981-16-5983-6
+SP  - 275-285
+T2  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+TI  - Towards Self-shaping Metamaterial Shells
+A2  - Yuan, Philip F
+A2  - Chai, Hua
+A2  - Yan, Chao
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2022
+C3  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Chai, Hua
+ED  - Yan, Chao
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Ali, Md. Hazrat
+AU  - Kuralbay, Yernar
+AU  - Aitmaganbet, Aidos
+AU  - Kamal, M A S
+DA  - 2022
+PY  - 2022
+AB  - Robotics and their application in industrial automation are increasing over the decades. There are a variety of conventional and non-conventional applications of robotic manipulators. One example of the non-traditional application of robot manipulators is the 3D printing-based construction of houses and buildings. Up to date, different ambitious solutions and methods are proposed, and they are expanding fast. In large-scale production, 6 DOF robotic arms, designed by common manufacturers such as KUKA, DENSO are widely used in 3D construction. The main objective of this work is to model a 6 DOF robot manipulator for 3D printing-based construction technology. This paper presents two new designs of robot manipulators for construction purposes; one is to transport the building materials, and the other is to help print with the concrete mixtures. The simulation results are obtained applying fundamental theories of robotics through Roboanalyzer software. The simulation parameters are chosen for the designed specific model.
+DO  - https://doi.org/10.1016/j.matpr.2021.07.228
+SN  - 2214-7853
+SP  - 1462-1468
+T2  - Materials Today: Proceedings
+TI  - Design of a 6-DOF robot manipulator for 3D printed construction
+VL  - 49
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Nguyen-Van, Sy
+AU  - Gwak, Kwan-Woong
+DA  - 2022
+PY  - 2022
+AB  - This paper proposes a novel two-nozzle cable-driven parallel robot (CDPR) for 3D printing building construction. This system has two independently moving nozzles mounted on the existing printing head. Thus, the printing time can be reduced dramatically with this system as the travel path of the printing head can be reduced to almost half thanks to those two nozzles that print almost half of the printing contour. To fully take advantage of two nozzle structures effectively, the path of the printing head is optimized to secure the minimum travel length of both the printing head and two nozzles. The smoothness of the optimal path is secured by applying the non-uniform rational B-splines (NURBS). In addition, free vibration of the proposed CDPR printer’s structure is analyzed to improve the printing quality and help the control of the proposed CDPR by using a finite element formulation of cables of the proposed robot. From the analysis results, the critical design guide—stiffness of the proposed structure could be raised by increasing the minimum cable tension in the tension distribution optimization algorithm—was obtained as well.
+DO  - 10.1007/s00170-022-08919-5
+IS  - 5
+SN  - 1433-3015
+SP  - 3325-3338
+T2  - The International Journal of Advanced Manufacturing Technology
+TI  - A two-nozzle cable-driven parallel robot for 3D printing building construction: path optimization and vibration analysis
+VL  - 120
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Wan, Qian
+AU  - Wang, Li
+AU  - Ma, Guowei
+DA  - 2021
+PY  - 2021
+AB  - 3D concrete printing (3DCP) has been successfully and widely applied in the fields of civil structure, infrastructure, architectural decoration etc.,due to its unique advantages of automation and flexibility, and has shown great potential for development. One of the key steps in the execution of 3DCP is the tool-path planning process. However, 3DCP typically utilize the flowable composite materials which changes with time, and it is easy to induce interface joints or filling defects due to uneven path distribution when constructing the irregular-shaped construction. To solve the problem of printing path planning in 3DCP, this paper proposes tool-path planning based on mapping method, which integrates the rheology and necessary continuity of concrete materials into the printing process parameters, improves the mutual adaptability of printing process and material characteristics, improves the continuity of printing, the compactness of filling, and then ensures the stability and durability of printing structure.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-33-4400-6_24
+SN  - 978-981-33-4400-6
+SP  - 255-264
+T2  - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication
+TI  - Adaptable Tool-Path Planning Method for 3D Concrete Printing Based on the Mapping Method
+A2  - Yuan, Philip F
+A2  - Yao, Jiawei
+A2  - Yan, Chao
+A2  - Wang, Xiang
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2021
+C3  - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Yao, Jiawei
+ED  - Yan, Chao
+ED  - Wang, Xiang
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Naboni, Roberto
+AU  - Breseghello, Luca
+AU  - Sanin, Sandro
+DA  - 2022
+PY  - 2022
+SP  - 409-418
+T2  - 40th Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2022
+TI  - Environment-Aware 3D Concrete Printing through Robot-Vision
+C2  - 2022
+C3  - 40th Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2022
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Breseghello, Luca
+AU  - Naboni, Roberto
+DA  - 2022
+PY  - 2022
+AB  - The recent advances in 3D Concrete Printing (3DCP) greatly impact architectural design, highlighting the disconnection between digital modelling and manufacturing processes. Conventional digital design tools present limitations in the description of a volumetric object, which is constrained to the definition of idealized external boundaries but neglect material, textural, and machinic information. However, 3DCP is based on material extrusion following a programmed toolpath, which requires custom modelling and methods to anticipate the manufacturing results. The paper presents the development of an interactive tool for the preview of 3D printing toolpaths within Grasshopper. Through an experimental campaign and analysis of material results, we integrate geometric, physical and design feedback within the design process. The accurate control of manufacturing variables such as printing speed and dimensions of the layers, together with the simulation and visualization of the results, makes them design parameters, opening to new formal and structural articulations in the design process. The developed instruments are tested on full scale printed prototypes, where their precision is demonstrated. Integrated into a 3DCP-specific design framework, the overall approach contributes to closing the existing gap between the digital environment and fabrication procedures in the construction industry.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-19-1280-1_19
+SN  - 978-981-19-1280-1
+SP  - 301-316
+T2  - Computer-Aided Architectural Design. Design Imperatives: The Future is Now
+TI  - Adaptive Toolpath: Enhanced Design and Process Control for Robotic 3DCP
+A2  - Gerber, David
+A2  - Pantazis, Evangelos
+A2  - Bogosian, Biayna
+A2  - Nahmad, Alicia
+A2  - Miltiadis, Constantinos
+C1  - Singapore
+C2  - 2022
+C3  - Computer-Aided Architectural Design. Design Imperatives: The Future is Now
+ED  - Gerber, David
+ED  - Pantazis, Evangelos
+ED  - Bogosian, Biayna
+ED  - Nahmad, Alicia
+ED  - Miltiadis, Constantinos
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Wei, Yimeng
+AU  - Markopoulou, Areti
+AU  - Zhu, Yuanshuang
+AU  - Martin, Eduardo Chamorro
+AU  - Kirova, Nikol
+DA  - 2022
+PY  - 2022
+AB  - There are severe environmental and ecological issues once we evaluate the architecture industry with LCA (Life Cycle Assessment), such as emission of CO2 caused by necessary high temperature for producing cement and significant amounts of Construction Demolition Waste (CDW) in deteriorated and obsolete buildings. One of the ways to solve these problems is Bio-Material. CELLULOSE and CHITON is the 1st and 2nd abundant substance in nature (Duro-Royo, J.: Aguahoja_Programmable Water-based Biocomposites for Digital Design and Fabrication across Scales. MIT, pp. 1–3 (2019)), which means significantly potential for architectural dimension production. Meanwhile, renewability and biodegradability make it more conducive to the current problem of construction pollution. The purpose of this study is to explore Cellulose Based Biomaterial and bring it into architectural scale additive manufacture that engages with performance in the material development, with respect to time of solidification and control of shrinkage, as well as offering mechanical strength. At present, the experiments have proved the possibility of developing a cellulose-chitosan- based composite into 3D-Printing Construction Material (Sanandiya, N.D., Vijay, Y., Dimopoulou, M., Dritsas, S., Fernandez, J.G.: Large-scale additive manufacturing with bioinspired cellulosic materials. Sci. Rep. 8(1), 1–5 (2018)). Moreover, The research shows that the characteristics (Such as waterproof, bending, compression, tensile, transparency) of the composite can be enhanced by different additives (such as xanthan gum, paper fiber, flour), which means it can be customized into various architectural components based on Performance Directional Optimization. This solution has a positive effect on environmental impact reduction and is of great significance in putting the architectural construction industry into a more environment-friendly and smart state.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-16-5983-6_27
+SN  - 978-981-16-5983-6
+SP  - 286-304
+T2  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+TI  - Additive Manufacture of Cellulose Based Bio-Material on Architectural Scale
+A2  - Yuan, Philip F
+A2  - Chai, Hua
+A2  - Yan, Chao
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2022
+C3  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Chai, Hua
+ED  - Yan, Chao
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Mohamed, H
+AU  - Bao, D W
+AU  - Snooks, R
+DA  - 2021
+PY  - 2021
+AB  - This research posits an innovative process of embedding carbon fibre as the primary structure within large-scale polymer 3D printed intricate architectural forms. The design and technical implications of this research are explored and demonstrated through two proto-architectural projects, Cloud Affects and Unclear Cloud, developed by the RMIT Architecture Snooks Research Lab. These projects are designed through a tectonic approach that we describe as a super composite – an approach that creates a compression of tectonics through algorithmic self-organisation and advanced manufacturing. Framed within a critical view of the lineage of polymer 3D printing and high tech fibres in the field of architectural design, the research outlines the limitations of existing robotic processes employed in contemporary carbon fibre fabrication. In response, the paper proposes an approach we describe as Infused Fibre Reinforced Plastic (IFRP) as a novel fabrication method for intricate geometries. This method involves 3D printing of sacrificial formwork conduits within the skin of complex architectural forms that are infused with continuous carbon fibre structural elements. Through detailed observation and critical review of Cloud Affects and Unclear Cloud (Fig. 2), the paper assesses innovations and challenges of this research in areas including printing, detailing, structural analysis and FEA modelling. The paper notes how these techniques have been refined through the iterative design of the two projects, including the development of fibre distribution mapping to optimise the structural performance.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-33-4400-6_28
+SN  - 978-981-33-4400-6
+SP  - 297-308
+T2  - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication
+TI  - Super Composite: Carbon Fibre Infused 3D Printed Tectonics
+A2  - Yuan, Philip F
+A2  - Yao, Jiawei
+A2  - Yan, Chao
+A2  - Wang, Xiang
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2021
+C3  - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Yao, Jiawei
+ED  - Yan, Chao
+ED  - Wang, Xiang
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - CHAP
+AU  - Lu, Ming
+AU  - Zhu, Wei Ran
+AU  - Yuan, Philip F
+DA  - 2020
+PY  - 2020
+AB  - In usual robotic fabrication by 6-axis industrial robots such as KUKA, ABB, and other brands, the usual robot’s 4th, 5th, and 6th axis is exactly converged in one point. When this type robot (pieper) is doing movement commands, setting the degree of 4th axis close to zero is an ideal condition for motion stability, especially for putting device which connects to tool head on 4th axis arm part. In plastic melting or others print which not cares the rotation angle about the printing direction (the printing direction means the effector’s output normal direction vector, KUKA is X axis, ABB is Z axis), the optimization of 4th axis technology not only makes printing stable but also makes better quality for printing. The paper introduces a new algorithm to get the analytics solution. The algorithm is clearly explained by mathematics and geometry ways. At the end of the paper, a grasshopper custom plugin is provided, which contains this new algorithm, with this plugin, people can get the optimized target path plane more easily.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-15-6568-7_6
+SN  - 978-981-15-6568-7
+SP  - 87-101
+T2  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+TI  - Toward a Collaborative Robotic Platform: FUROBOT
+A2  - Yuan, Philip F
+A2  - Xie, Mike
+A2  - Leach, Neil
+A2  - Yao, Jiawei
+A2  - Wang, Xiang
+BT  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Xie, Mike
+ED  - Leach, Neil
+ED  - Yao, Jiawei
+ED  - Wang, Xiang
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Kumar, B Bala Murali
+AU  - Hsueh, Yun Chung
+AU  - Xin, Zhuoyang
+AU  - Luo, Dan
+DA  - 2022
+PY  - 2022
+AB  - The additive manufacturing process is gaining momentum in the construction industry with the rapid progression of large-scale 3D printed technologies. An established method of increasing the structural performance of concrete is by wrapping it with Fibre Reinforced Polymer (FRP). This paper proposes a novel additive process to fabricate a FRP formwork by dynamic layer winding of the FRP fabric with epoxy resin paired with an industrial scale robotic arm. A range of prototypes were fabricated to explore and study the fabrication parameters. Based on the systemic exploration, the limitations, the scope, and the feasibility of the proposed additive manufacturing method is studied for large scale customisable structural formworks.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-16-5983-6_34
+SN  - 978-981-16-5983-6
+SP  - 368-379
+T2  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+TI  - Process and Evaluation of Automated Robotic Fabrication System for In-Situ Structure Confinement
+A2  - Yuan, Philip F
+A2  - Chai, Hua
+A2  - Yan, Chao
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2022
+C3  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Chai, Hua
+ED  - Yan, Chao
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Zhang, Ketao
+AU  - Chermprayong, Pisak
+AU  - Xiao, Feng
+AU  - Tzoumanikas, Dimos
+AU  - Dams, Barrie
+AU  - Kay, Sebastian
+AU  - Kocer, Basaran Bahadir
+AU  - Burns, Alec
+AU  - Orr, Lachlan
+AU  - Choi, Christopher
+AU  - Darekar, Durgesh Dattatray
+AU  - Li, Wenbin
+AU  - Hirschmann, Steven
+AU  - Soana, Valentina
+AU  - Ngah, Shamsiah Awang
+AU  - Sareh, Sina
+AU  - Choubey, Ashutosh
+AU  - Margheri, Laura
+AU  - Pawar, Vijay M
+AU  - Ball, Richard J
+AU  - Williams, Chris
+AU  - Shepherd, Paul
+AU  - Leutenegger, Stefan
+AU  - Stuart-Smith, Robert
+AU  - Kovac, Mirko
+DA  - 2022
+PY  - 2022
+AB  - Additive manufacturing methods1–4 using static and mobile robots are being developed for both on-site construction5–8 and off-site prefabrication9,10. Here we introduce a method of additive manufacturing, referred to as aerial additive manufacturing (Aerial-AM), that utilizes a team of aerial robots inspired by natural builders11 such as wasps who use collective building methods12,13. We present a scalable multi-robot three-dimensional (3D) printing and path-planning framework that enables robot tasks and population size to be adapted to variations in print geometry throughout a building mission. The multi-robot manufacturing framework allows for autonomous three-dimensional printing under human supervision, real-time assessment of printed geometry and robot behavioural adaptation. To validate autonomous Aerial-AM based on the framework, we develop BuilDrones for depositing materials during flight and ScanDrones for measuring the print quality, and integrate a generic real-time model-predictive-control scheme with the Aerial-AM robots. In addition, we integrate a dynamically self-aligning delta manipulator with the BuilDrone to further improve the manufacturing accuracy to five millimetres for printing geometry with precise trajectory requirements, and develop four cementitious–polymeric composite mixtures suitable for continuous material deposition. We demonstrate proof-of-concept prints including a cylinder 2.05 metres high consisting of 72 layers of a rapid-curing insulation foam material and a cylinder 0.18 metres high consisting of 28 layers of structural pseudoplastic cementitious material, a light-trail virtual print of a dome-like geometry, and multi-robot simulations. Aerial-AM allows manufacturing in-flight and offers future possibilities for building in unbounded, at-height or hard-to-access locations.
+DO  - 10.1038/s41586-022-04988-4
+IS  - 7928
+SN  - 1476-4687
+SP  - 709-717
+T2  - Nature
+TI  - Aerial additive manufacturing with multiple autonomous robots
+VL  - 609
+ID  - ITEM-1
+ER  - 
+TY  - CHAP
+AU  - Yuan, Philip F
+AU  - Meng, Hao
+AU  - Yu, Lei
+AU  - Zhang, Liming
+DA  - 2016
+PY  - 2016
+AB  - This paper discusses a robotic multi-dimensional printing design methodology based on a material’s structural performance. Through research on the process of a spider’s behavior, e.g., spinning and weaving, the designers simulate natural construction principles and apply them to the optimization of traditional 3D printing techniques. A 6-axis robot is programmed to carry a customized printing end effector to create free-standing geometries in space. The structural behavior of the design is optimized through the consistent negotiation between material analysis and structural simulation in both virtual and physical environment, together with the implementation of sensor input and real-time feedback between construction tools and simulation interfaces. The printing tools are designed with additional extruders and nozzles of various dimensions to adapt to different materials and design requirements. In this way, a flexible and adaptive additive manufacturing methodology is established, which integrates the material and structural information with design initiatives. Displaying a high degree of spatial and structural complexity, the alliance between 3D printing and robotic technology opens new possibilities to sophisticated architectural structures.
+CY  - Cham
+DO  - https://doi.org/10.1007/978-3-319-26378-6_7
+SN  - 978-3-319-26378-6
+SP  - 92-105
+T2  - Robotic Fabrication in Architecture, Art and Design
+TI  - Robotic Multi-dimensional Printing Based on Structural Performance
+A2  - Reinhardt, Dagmar
+A2  - Saunders, Rob
+A2  - Burry, Jane
+BT  - Robotic Fabrication in Architecture, Art and Design
+ED  - Reinhardt, Dagmar
+ED  - Saunders, Rob
+ED  - Burry, Jane
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Wermelinger, M
+AU  - Johns, R
+AU  - Gramazio, F
+AU  - Kohler, M
+AU  - Hutter, M
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1109/LRA.2021.3070300
+IS  - 3
+SN  - 2377-3766 VO - 6
+SP  - 5105-5112
+T2  - IEEE Robotics and Automation Letters
+TI  - Grasping and Object Reorientation for Autonomous Construction of Stone Structures
+VL  - 6
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Nubert, J
+AU  - Khattak, S
+AU  - Hutter, M
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1109/ICRA46639.2022.9812386
+SN  - VO -
+SP  - 10048-10054
+T2  - 2022 International Conference on Robotics and Automation (ICRA)
+TI  - Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots
+C2  - 2022
+C3  - 2022 International Conference on Robotics and Automation (ICRA)
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Liyanage, T
+AU  - Fernando, S
+DA  - 2021
+PY  - 2021
+DO  - 10.1109/ICCAR52225.2021.9463439
+SN  - 2251-2454 VO  -
+SP  - 89-92
+T2  - 2021 7th International Conference on Control, Automation and Robotics (ICCAR)
+TI  - Optimizing Robotic Swarm Based Construction Tasks
+C2  - 2021
+C3  - 2021 7th International Conference on Control, Automation and Robotics (ICCAR)
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Wu, Hao
+AU  - Lu, Ming
+AU  - Zhou, XinJie
+AU  - Yuan, Philip F
+DA  - 2022
+PY  - 2022
+AB  - In practical robotic construction work, such as laying bricks and painting walls, obstructing objects are encountered and motion planning needs to be done to prevent collisions. This paper first introduces the background and results of existing work on motion planning and describes two of the most mainstream methods, the potential field method, and the sampling-based method. How to use the probabilistic route approach for motion planning on a 6-axis robot is presented. An example of a real bricklaying job is presented to show how to obtain point clouds and increase the speed of computation by customizing collision and ignore calculations. Several methods of smoothing paths are presented and the paths are re-detected to ensure the validity of the paths. Finally, the flow of the whole work is presented and some possible directions for future work are suggested. The significance of this paper is to confirm that a relatively fast motion planning can be achieved by an improved algorithmic process in grasshopper.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-16-5983-6_31
+SN  - 978-981-16-5983-6
+SP  - 340-348
+T2  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+TI  - Application of 6-Dof Robot Motion Planning in Fabrication
+A2  - Yuan, Philip F
+A2  - Chai, Hua
+A2  - Yan, Chao
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2022
+C3  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Chai, Hua
+ED  - Yan, Chao
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Nedungadi, Ashwin Suresh
+AU  - Saska, Martin
+DA  - 2020
+PY  - 2020
+AB  - This paper presents a novel design of an active grasping mechanism for autonomous Unmanned Aerial Vehicles (UAVs) aimed to carry ferromagnetic objects in assembly tasks. The proposed design uses electromagnets along with a combination of sensors to provide fast and reliable feedback. The designed gripper with its control system is aimed to be fully autonomous and will be employed in a task in the Mohamed Bin Zayed International Robotics Challenge (MBZIRC) 2020 competition where a group of autonomous UAVs cooperatively build a wall. The design is optimized for the Tarot 650 drone platform and for outdoor operation, while taking into consideration robustness of performance and resilience to aerial maneuvers. We describe the design of the gripper, the overall system and the approach used to obtain the feedback from the sensors which is crucial for robust aerial grasping and for high level planning of the assembly task. Various outdoor experiments were conducted on fabricated bricks to verify the proposed approach and to demonstrate the ability of the system to autonomously build a wall.
+CY  - Cham
+SN  - 978-3-030-43890-6
+SP  - 162-179
+TI  - Design of an Active-Reliable Grasping Mechanism for Autonomous Unmanned Aerial Vehicles BT  - Modelling and Simulation for Autonomous Systems
+A2  - Mazal, Jan
+A2  - Fagiolini, Adriano
+A2  - Vasik, Petr
+C1  - Cham
+C2  - 2020
+ED  - Mazal, Jan
+ED  - Fagiolini, Adriano
+ED  - Vasik, Petr
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Krizmancic, M
+AU  - Arbanas, B
+AU  - Petrovic, T
+AU  - Petric, F
+AU  - Bogdan, S
+DA  - 2020
+PY  - 2020
+DO  - 10.1109/LRA.2020.2965855
+IS  - 2
+SN  - 2377-3766 VO  - 5
+SP  - 798-805
+T2  - IEEE Robotics and Automation Letters
+TI  - Cooperative Aerial-Ground Multi-Robot System for Automated Construction Tasks
+VL  - 5
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Goessens, Sébastien
+AU  - Mueller, Caitlin
+AU  - Latteur, Pierre
+DA  - 2018
+PY  - 2018
+AB  - The additive manufacturing of real scale structures using UAVs (drones) is a new discipline with challenges as wide as the possibilities it opens up for the future. UAVs must not be seen as the only way of robotizing future construction sites, but in combination with other kinds of robots. This adequate combination is indeed likely to reduce the influence of factors that usually badly affect the quality and profitability of construction projects, such as human factors, execution slowness, insecurity, insufficient communication between the stakeholders, weather conditions, strikes, lack of skilled labor, etc. The aim of this research, carried out jointly by MIT and UCLouvain since 3 years, was to lay the necessary groundwork, still not explored elsewhere, in order to prove the feasibility of building real-scale structures, in particular masonry structures, with big custom-built drones. In particular, the objective was to investigate the drones precision, their behavior while transporting, handling and laying loads, but also to draw the first guidelines for the design of “Drone compatible” construction elements: their shape, the way they should be assembled together, how to minimize their weight, how to connect them together, how to ensure their stability. This publication summarizes the work carried out so far in this field, provides the results of the laboratory tests and proposes development and improvement paths for the future. In particular, lab tests with a big drone assembling different kinds of more and more complex construction elements are commented. Several conclusions can be drawn from the study, the first one being that the research is worth going beyond the step of proving the feasibility. Indeed, it shows that using UAVs for the construction of future real scale structures is certainly not a utopia and is very promising. However, it requires further developments, not only about the drone themselves (guiding systems, handling systems, robustness, power supply), but also about the way to pass from the laboratory stage to the construction of real structures with a complex geometry, composed of slabs, walls, connections and finishing.
+DO  - https://doi.org/10.1016/j.autcon.2018.06.015
+SN  - 0926-5805
+SP  - 458-480
+T2  - Automation in Construction
+TI  - Feasibility study for drone-based masonry construction of real-scale structures
+VL  - 94
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Ding, Lieyun
+AU  - Jiang, Weiguang
+AU  - Zhou, Ying
+AU  - Zhou, Cheng
+AU  - Liu, Sheng
+DA  - 2020
+PY  - 2020
+AB  - The application of robotics in the assembly of building bricks has become a popular topic, while the planning of construction robots is still lagged far behind the manufacturing industry. New robotic assembly task with manual teaching–planning method is always time consuming. A task-level planning method was proposed, and the implementation details were described to improve the planning efficiency of robotic brick assembly without affecting accuracy. In this work, a BIM (Building Information Model)-based robotic assembly model that contains all the required information for planning was proposed. Image-based 3D modeling was utilized to help the calibration of the robotic assembly scene and building task models. The placement point coordinates of each assembly brick were generated in the robot base coordinate system. Finally, three different building information model tasks of modular structures (e.g., wall, stair, and pyramid) were designed. The feasibility and effectiveness of the proposed method were verified by comparing the efficiency and accuracy of three models through manual teaching and task-level planning.
+DO  - 10.1016/j.aei.2019.100993
+SN  - 1474-0346
+SP  - 100993
+T2  - Advanced Engineering Informatics
+TI  - BIM-based task-level planning for robotic brick assembly through image-based 3D modeling
+VL  - 43
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Zhou, Cheng
+AU  - Tang, Bin
+AU  - Ding, Lieyun
+AU  - Sekula, Przemyslaw
+AU  - Zhou, Ying
+AU  - Zhang, Zekun
+DA  - 2020
+PY  - 2020
+AB  - Prior studies of brick design for future lunar constructed facilities generated various possible solution ideas. This paper describes the proposed design and automated assembly of Planetary LEGO Brick for lunar in-situ construction. The finite element method was implemented to analyze the state of the proposed structure based on ABAQUS. A Deep Convolutional Neural Network (DCNN) with the Xception architecture was used to recognize six various brick types in the process of assembling a lunar habitat facility with the use of a mechanical arm in a laboratory setting. A novel scheme with a modular system is proposed for lunar in-situ construction using Planetary LEGO Brick. The designed lunar habitat can be used to protect the astronauts from the extreme environment on the moon and provide a place for them to rest. The results demonstrate that the design scheme of Planetary LEGO Brick provides a possible solution for lunar in-situ construction. The proposed design scheme of Planetary LEGO Brick provides a feasible way for the construction of a lunar habitat and the developed algorithm can be used for automated assembly of bricks and other building components.
+DO  - 10.1016/j.autcon.2020.103282
+SN  - 0926-5805
+SP  - 103282
+T2  - Automation in Construction
+TI  - Design and automated assembly of Planetary LEGO Brick for lunar in-situ construction
+VL  - 118
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Gao, Yifan
+AU  - Shu, Jiangpeng
+AU  - Xiao, Wenkai
+AU  - Jin, Zhenfen
+DA  - 2023
+PY  - 2023
+AB  - For existing robotic assembly studies in construction, the axis-aligned bounding box algorithm used is not capable enough to provide the exact approximation of rotated and irregularly-shaped structural components' volumetric extents. This could lead to mistakenly assumed collisions. This research bridges the gap by developing a robotic approach that can mathematically derive polyhedron-bounded boxes that provide a more accurate approximation of rotated and irregularly-shaped structural components' volumetric extents for collision checks. In the approach, structural components' polyhedron meshes are represented by vertexes and normal in the algebraic format and are compared in real time to identify touching faces. Testing of the approach reveals that it has satisfactory collision avoidance performance, where its generated outputs can be used to control the joints of a robotic manipulator for detouring obstacles. The strength of our approach is in exploiting entities' polyhedral features, where the constraints for testing collisions are set with objects' exact boundaries.
+DO  - https://doi.org/10.1016/j.autcon.2023.104904
+SN  - 0926-5805
+SP  - 104904
+T2  - Automation in Construction
+TI  - Polyhedron-bounded collision checks for robotic assembly of structural components
+VL  - 152
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Hartmann, V N
+AU  - Orthey, A
+AU  - Driess, D
+AU  - Oguz, O S
+AU  - Toussaint, M
+DA  - 2023
+PY  - 2023
+DO  - 10.1109/TRO.2022.3198020
+IS  - 1
+SN  - 1941-0468 VO  - 39
+SP  - 239-252
+T2  - IEEE Transactions on Robotics
+TI  - Long-Horizon Multi-Robot Rearrangement Planning for Construction Assembly
+VL  - 39
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Ikeda, Takahiro
+AU  - Bando, Naoyuki
+AU  - Yamada, Hironao
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.20965/jrm.2021.p0313
+IS  - 2
+SN  - 0915-3942
+SP  - 313-321
+T2  - Journal of Robotics and Mechatronics
+TI  - Semi-Automatic Visual Support System with Drone for Teleoperated Construction Robot
+VL  - 33
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Ali, Ahmed Khairadeen
+AU  - Lee, One Jae
+AU  - Song, Hayub
+DA  - 2021
+PY  - 2021
+AB  - Robotic involvement in construction is still in its initial stages compared to other industries. Conventionally, the facade panel picking position is done manually by trial and error. The designer chooses a place to pick up a facade piece within reach of the robot arm, and then simulates the entire pick and place process in a digital model before applying to the assembly on the construction job site. After that the designer might detect errors, collisions, or singularities, which require the designer to modify the position of picking by changing the location or orientation of the module, thus repeating the simulation cycle until they reach a satisfactory result with no errors or collisions. This work is usually considered monotonous, inefficient, and time consuming. Therefore, this research proposes an optimization process implemented in design stage of construction project via static performance criteria in order to automatically search for the best picking location within the reach of the robot arm. The goal is to automate the process of robot location finding and solve the limitations of modular robot assembly simulation processes in order to allow for effective execution during the robotic construction implementation. The proposed approach, called iFobot, consists of three modules: Facade Generative Modeling (iFobot-D), Robot Position Optimization (iFobot-B), and Culminating Feedback to BIM (iFobot-L). Specifically, the scope of the paper is limited to the robot arm and facade picking and placing location finding processes. This research allows initial assessment of the possible assembly process as regards the dimensions of modules and hence the overall dimensions of the system, which subsequently influences assembly implementation in the construction job site. A set of generative algorithms were developed using commercially developed visual programming language that automatically populate facade modules on the building envelope, find the robot and facade assembly locations with their quantity take-off, and integrate the module with the BIM environment. A case study has been developed to validate and test the proposed system. The results prove that the system generates optimized locations for the robot arm workstations with the lowest possible collision and reachability rate while addressing robot operation time reduction, thus reducing risks encountered during facade assembly and increasing productivity. Moreover, the iFobot is predicted to influen…
+DO  - https://doi.org/10.1016/j.jobe.2020.101556
+SN  - 2352-7102
+SP  - 101556
+T2  - Journal of Building Engineering
+TI  - Robot-based facade spatial assembly optimization
+VL  - 33
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Gao, Yifan
+AU  - Meng, Jiawei
+AU  - Shu, Jiangpeng
+AU  - Liu, Yuanchang
+DA  - 2022
+PY  - 2022
+SN  - 0926-5805
+SP  - 104370
+T2  - Automation in Construction
+TI  - BIM-based task and motion planning prototype for robotic assembly of COVID-19 hospitalisation units—Flatpack house
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Shu, Jiangpeng
+AU  - Li, Wenhao
+AU  - Meng, Jiawei
+AU  - Gao, Yifan
+DA  - 2022
+PY  - 2022
+SN  - 0926-5805
+SP  - 104520
+T2  - Automation in Construction
+TI  - Collision-free trajectory planning for robotic assembly of COVID-19 healthcare facilities
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Meng, Hao
+AU  - Liang, Zhihao
+AU  - Qi, Pengcheng
+DA  - 2020
+PY  - 2020
+AB  - This paper demonstrates the implementation of an on-site mobile robot platform, equipped with computer vision system, which can automate the process of fabricating and construct standard partition wall with minimum human intervention. On the basis of this research, the following aspects are presented: (1) the physical setup and the customized multifunctional end effector that enables the robot to fabricate customized partition wall on site (2) the digital workflow that analyzes the geometrical information of the building components and generates robot operational code, while at the same time sets up communication between tracked mobile platform, robotic arm and end effector. (3) its capability to assemble wall panels in space accurately and align the structures dynamically through real time computer vision technology. The experiment provides an outlook to the possibilities of high accuracy construction of large scale building components with location aware mobile robot.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-13-8153-9_33
+SN  - 978-981-13-8153-9
+SP  - 364-372
+T2  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+TI  - On-Site Automatic Construction of Partition Walls with Mobile Robot and Computer Vision
+A2  - Yuan, Philip F
+A2  - Xie, Yi Min (Mike)
+A2  - Yao, Jiawei
+A2  - Yan, Chao
+C1  - Singapore
+C2  - 2020
+C3  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Xie, Yi Min (Mike)
+ED  - Yao, Jiawei
+ED  - Yan, Chao
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Bruun, Edvard P G
+AU  - Pastrana, Rafael
+AU  - Paris, Vittorio
+AU  - Beghini, Alessandro
+AU  - Pizzigoni, Attilio
+AU  - Parascho, Stefana
+AU  - Adriaenssens, Sigrid
+DA  - 2021
+PY  - 2021
+AB  - Geometrically complex masonry structures (e.g., arches, domes, vaults) are traditionally built with scaffolding or falsework to provide stability during construction. The process of building such structures can potentially be improved through the use of multiple robots working together in a cooperative assembly framework. Here a robot is envisioned as both a placement and external support agent during fabrication – the unfinished structure is supported in such a way that scaffolding is not required. The goal of this paper is to present and validate the efficacy of three cooperative fabrication approaches using two or three robots, for the scaffold-free construction of a stable masonry arch from which a medium-span vault is built. A simplified numerical method to represent a masonry structure is first presented and validated to analyze systems composed of discrete volumetric elements. This method is then used to evaluate the effect of the three cooperative robotic fabrication strategies on the stability performance of the central arch. The sequential method and cantilever method, which utilize two robotic arms, are shown to be viable methods, but have challenges related to scalability and robustness. By adding a third robotic agent, it becomes possible to determine a structurally optimal fabrication sequence through a multi-objective optimization process. The optimized three robot method is shown to significantly improve the structural behavior over all fabrication steps. The modeling approaches presented in this paper are broadly formulated and widely applicable for the analysis of cooperative robotic fabrication sequences for the construction of masonry structures across scales.
+DO  - https://doi.org/10.1016/j.autcon.2021.103803
+SN  - 0926-5805
+SP  - 103803
+T2  - Automation in Construction
+TI  - Three cooperative robotic fabrication methods for the scaffold-free construction of a masonry arch
+VL  - 129
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Augugliaro, F
+AU  - Lupashin, S
+AU  - Hamer, M
+AU  - Male, C
+AU  - Hehn, M
+AU  - Mueller, M W
+AU  - Willmann, J S
+AU  - Gramazio, F
+AU  - Kohler, M
+AU  - D'Andrea, R
+DA  - 2014
+PY  - 2014
+DO  - 10.1109/MCS.2014.2320359
+IS  - 4
+SN  - 1941-000X VO  - 34
+SP  - 46-64
+T2  - IEEE Control Systems Magazine
+TI  - The Flight Assembled Architecture installation: Cooperative construction with flying machines
+VL  - 34
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Zhang, Ye
+AU  - Meina, A
+AU  - Lin, Xuhao
+AU  - Zhang, Kun
+AU  - Xu, Zhen
+DA  - 2021
+PY  - 2021
+AB  - This study proposes a cyber-physical interconnection method for computational design and robotic construction in a wooden architectural realm. It aims to provide a highly efficient, flexible, and adaptive design-construction approach by continuously updating digital models and physical operations according to the locally sourced materials. A perception-modeling system to scan the source materials on-site and send their data simultaneously to design software was developed by using physical sensors and computational technologies in an innovative manner. The data was used for architectural programs to generate design outcomes and guide the robotic construction. The novelty of this study is to establish a real-time, bidirectional interaction mechanism between digital design and physical construction. The design outcome is no longer a fixed, predefined geometric model but a dynamic, data-driven model which would be updated by material conditions on-site. The construction robot is able to make synchronous adjustment automatically in coordination with the dynamic design. The success of the iterative perceiving-simulating-updating loop was demonstrated by building two pavilions.
+DO  - 10.1155/2021/8898997
+SN  - 1687-8086
+SP  - 8898997
+T2  - Advances in Civil Engineering
+TI  - Digital Twin in Computational Design and Robotic Construction of Wooden Architecture
+VL  - 2021
+A2  - Zhang, Jiansong
+ED  - Zhang, Jiansong
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Chai, Hua
+AU  - Wagner, Hans Jakob
+AU  - Guo, Zhixian
+AU  - Qi, Yue
+AU  - Menges, Achim
+AU  - Yuan, Philip F
+DA  - 2022
+PY  - 2022
+AB  - Timber slabs design is currently limited to grid layouts derived from prefabricated rectangular panels. The lack of adaptability of timber slabs to accommodate multiple span directions makes it difficult to compete with reinforced concrete slabs constructed on site. This paper describes an adaptive slab system composed of thin Cross-Laminated Timber (CLT) panels and robot-fabricated beam networks for reinforcement. The beam network was developed through intricate negotiation of structural optimization and fabrication constraints, which can adapt to changes in slab span and directions. A mobile robot platform that allows for on-site assembly of timber sticks into continuous beam networks was developed. The robot platform and slab system were tested with a case study pavilion. The co-design of the robot platform and the slab system fills the gap in on-site robotic timber construction and expands the design freedom of timber buildings.
+DO  - https://doi.org/10.1016/j.autcon.2022.104536
+SN  - 0926-5805
+SP  - 104536
+T2  - Automation in Construction
+TI  - Computational design and on-site mobile robotic construction of an adaptive reinforcement beam network for cross-laminated timber slab panels
+VL  - 142
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Wagner, Hans Jakob
+AU  - Chai, Hua
+AU  - Guo, Zhixian
+AU  - Menges, Achim
+AU  - Yuan, Philip F
+DA  - 2020
+PY  - 2020
+T2  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+TI  - Towards an on-site fabrication system for bespoke, unlimited and monolithic timber slabs
+C2  - 2020
+C3  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Eversmann, Philipp
+AU  - Gramazio, Fabio
+AU  - Kohler, Matthias
+DA  - 2017
+PY  - 2017
+AB  - Despite modern timber construction being on the forefront of digital technology in construction, subtractive CNC—fabrication technologies are still predominantly used in the industry. An important break in the digital chain occurs when prefabricated small building parts have to be assembled manually into functional modules. This can result in a loss of digital information in the process. Therefore, a robotic setup for timber construction was specifically developed by the authors enabling large-scale spatial fabrication possibilities using a combination of subtractive external tools for cutting and drilling and additive robotic operations. Through automatization techniques and innovative feedback processes, the system can minimize material waste by reacting to different material sizes even during the construction process. In a case study, which was undertaken in the course of the Master of Advanced Studies program in Digital Fabrication at ETH Zurich, a complete digital workflow using additive robotic fabrication processes in timber construction was realized. We demonstrate the conception of the worldwide first double-story robotically assembled timber structure, explain its fabrication processes including an integrated envelope, and conclude by analyzing the robotic fabrication technologies in terms of their efficiency and structural and functional capabilities and limits.
+DO  - https://doi.org/10.1007/s41693-017-0006-2
+IS  - 1
+SN  - 2509-8780
+SP  - 49-60
+T2  - Construction Robotics
+TI  - Robotic prefabrication of timber structures: towards automated large-scale spatial assembly
+VL  - 1
+ID  - ITEM-1
+ER  - 
+TY  - CHAP
+AU  - Søndergaard, Asbjørn
+AU  - Amir, Oded
+AU  - Eversmann, Phillip
+AU  - Piskorec, Luka
+AU  - Stan, Florin
+AU  - Gramazio, Fabio
+AU  - Kohler, Matthias
+DA  - 2016
+PY  - 2016
+AB  - This paper presents a novel method for integrated topology optimization and fabrication of advanced timber space-frame structures. The method, developed in research collaboration between ETH Zürich, Aarhus School of Architecture and Israel Institute of Technology, entails the coupling of truss-based topology optimization with digital procedures for rationalization and robotic assembly of bespoke timber members, through a procedural, cross-application workflow. Through this, a direct chaining of optimization and robotic fabrication is established, in which optimization data is driving subsequent processes solving timber joint intersections, robotically controlling member prefabrication, and spatial robotic assembly of the optimized timber structures. The implication of this concept is studied through pilot fabrication and load-testing of a full scale prototype structure.
+CY  - Cham
+DO  - https://doi.org/10.1007/978-3-319-26378-6_14
+SN  - 978-3-319-26378-6
+SP  - 190-203
+T2  - Robotic Fabrication in Architecture, Art and Design
+TI  - Topology Optimization and Robotic Fabrication of Advanced Timber Space-Frame Structures
+A2  - Reinhardt, Dagmar
+A2  - Saunders, Rob
+A2  - Burry, Jane
+BT  - Robotic Fabrication in Architecture, Art and Design
+ED  - Reinhardt, Dagmar
+ED  - Saunders, Rob
+ED  - Burry, Jane
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Willmann, Jan
+AU  - Knauss, Michael
+AU  - Bonwetsch, Tobias
+AU  - Apolinarska, Anna Aleksandra
+AU  - Gramazio, Fabio
+AU  - Kohler, Matthias
+DA  - 2016
+PY  - 2016
+AB  - This paper presents a novel approach to non-standard timber assembly – Robotic Timber Construction (RTC) – where robotic fabrication is used to expand additive digital fabrication techniques towards industrial full scale dimensions. Featuring robotic systems that grasp, manipulate, and finally position building components according to a precise digital blueprint, RTC combines robotic assembly procedures and advanced digital design of non-standard timber structures. The resulting architectural morphologies allow for a convergence of aesthetic and functional concerns, enabling structural optimisation through the locally differentiated aggregation of material. Initiated by the group of Gramazio Kohler Research at ETH Zurich, this approach offers a new perspective on automated timber construction, where the focus is shifted from the processing of single parts towards the assembly of generic members in space. As such, RTC promotes unique advantages over conventional approaches to timber construction, such as, for example, CNC joinery and cutting: through the automated placement of material exactly where it is needed, RTC combines additive and largely waste-free construction with economic assembly procedures, it does not require additional external building reference, and it offers digital control across the entire building process, even when the design and assembly information are highly complex. This paper considers 1) research parameters for the individual components of RTC (such as computational design processes, construction methods and fabrication strategies), and 2) the architectural implications of integrating these components into a systemic, unifying process at the earliest stages of design. Overall, RTC leads to profound changes in the design, performance and expressive language of architecture and thus fosters the creation of architecture that profoundly reinvents its constructive repertoire.
+DO  - 10.1016/j.autcon.2015.09.011
+SN  - 0926-5805
+SP  - pp.16-23
+T2  - Automation in Construction
+TI  - Robotic timber construction — Expanding additive fabrication to new dimensions
+VL  - 61
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Apolinarska, Aleksandra Anna
+AU  - Pacher, Matteo
+AU  - Li, Hui
+AU  - Cote, Nicholas
+AU  - Pastrana, Rafael
+AU  - Gramazio, Fabio
+AU  - Kohler, Matthias
+DA  - 2021
+PY  - 2021
+AB  - In architectural construction, automated robotic assembly is challenging due to occurring tolerances, small series production and complex contact situations, especially in assembly of elements with form-closure such as timber structures with integral joints. This paper proposes to apply Reinforcement Learning to control robot movements in contact-rich and tolerance-prone assembly tasks and presents the first successful demonstration of this approach in the context of architectural construction. Exemplified by assembly of lap joints for custom timber frames, robot movements are guided by force/torque and pose data to insert a timber element in its mating counterpart(s). Using an adapted Ape-X DDPG algorithm, the control policy is trained entirely in simulation and successfully deployed in reality. The experiments show the policy can also generalize to situations in real world not seen in training, such as tolerances and shape variations. This caters to uncertainties occurring in construction processes and facilitates fabrication of differentiated, customized designs.
+DO  - https://doi.org/10.1016/j.autcon.2021.103569
+SN  - 0926-5805
+SP  - 103569
+T2  - Automation in Construction
+TI  - Robotic assembly of timber joints using reinforcement learning
+VL  - 125
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Naboni, Roberto
+AU  - Kunic, Anja
+AU  - Kramberger, Aljaz
+AU  - Schlette, Christian
+DA  - 2021
+PY  - 2021
+AB  - Wood is more and more seen as a sustainable solution to offset carbon emissions from constructions. In response and in parallel to this, the research in robotic timber construction is evolving rapidly, pushed by Industry 4.0 technologies and the integration of digital and physical robotic assets. This paper presents an approach for the design and assembly automation of layered timber structures, with the use of a flexible cell based on collaborative robots. Advanced assembly procedures and digital design of non-standard timber structures are here established and integrated. The automation process is here enhanced by the (1) use of feedback systems based on the location and force signals, (2) the introduction of a flexible robot setup with automatic screwing, and (3) human-collaboration to provide immediate assistance to the robot in the case the signals do not match the defined assembly conditions. The paper discusses the development and use of a Cyber-Physical System to govern the entire construction process, including reflections on the integrated approach to the design, modelling and simulation of the process.
+DO  - https://doi.org/10.1007/s41693-020-00052-7
+IS  - 1
+SN  - 2509-8780
+SP  - 13-22
+T2  - Construction Robotics
+TI  - Design, simulation and robotic assembly of reversible timber structures
+VL  - 5
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Kramberger, Aljaz
+AU  - Kunic, Anja
+AU  - Iturrate, Iñigo
+AU  - Sloth, Christoffer
+AU  - Naboni, Roberto
+AU  - Schlette, Christian
+DA  - 2022
+PY  - 2022
+AB  - The construction sector is investigating wood as a highly sustainable material for fabrication of architectural elements. Several researchers in the field of construction are currently designing novel timber structures as well as novel solutions for fabricating such structures, i.e. robot technologies which allow for automation of a domain dominated by skilled craftsman. In this paper, we present a framework for closing the loop between the design and robotic assembly of timber structures. On one hand, we illustrate an extended automation process that incorporates learning by demonstration to learn and execute a complex assembly of an interlocking wooden joint. On the other hand, we describe a design case study that builds upon the specificity of this process, to achieve new designs of construction elements, which were previously only possible to be assembled by skilled craftsmen. The paper provides an overview of a process with different levels of focus, from the integration of a digital twin to timber joint design and the robotic assembly execution, to the development of a flexible robotic setup and novel assembly procedures for dealing with the complexity of the designed timber joints. We discuss synergistic results on both robotic and construction design innovation, with an outlook on future developments.
+DO  - https://doi.org/10.3389/frobt.2021.768038
+SN  - 2296-9144
+T2  - Frontiers in Robotics and AI
+TI  - Robotic Assembly of Timber Structures in a Human-Robot Collaboration Setup
+VL  - 8
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Kunic, Anja
+AU  - Naboni, Roberto
+AU  - Kramberger, Aljaz
+AU  - Schlette, Christian
+DA  - 2021
+PY  - 2021
+AB  - The field of architecture is more and more referring to wood as a sustainable solution for satisfying the need of new buildings while offsetting carbon emissions. In parallel, the research in Robotic Timber Construction (RTC) has evolved rapidly, focusing both on fabrication and assembly processes in order to improve the productivity of the construction industry and extend the production digital chain. This paper presents an original workflow for the automation from design to layered robotic assembly of reversible timber structures, aided by human-robot collaboration. An advanced digital design workflow for non-standard timber structures is established, shifting the focus towards the assembly of a kit of discrete wood elements into larger configurations that can be reconfigured in time. Linked to this, collaborative robots are employed for grasping, positioning and fixing of discrete timber elements, with the introduction of a multi-phase end effector that connects wood elements through reversible joinery. As such, the work introduces fundamental design and manufacturing concepts for an automated construction process that extends the material life cycle of wood, and consequently, its carbon store. The enhancement of robotic assembly is here achieved with the (1) integration of a feedback system based on location and force signals, and (2) human collaboration to provide immediate assistance to the robot in the case the signals do not match the defined assembly conditions. The various developments are applied to a research demonstrator which crystallizes the various design, constructional, and manufacturing inputs into a physical output, which is discussed from multiple viewpoints, in order to delineate relevant areas for future studies.
+DO  - https://doi.org/10.1016/j.autcon.2020.103531
+SN  - 0926-5805
+SP  - 103531
+T2  - Automation in Construction
+TI  - Design and assembly automation of the Robotic Reversible Timber Beam
+VL  - 123
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Lee, Joosung
+AU  - Kim, Byeol
+AU  - Sun, Dongik
+AU  - Han, Changsoo
+AU  - Ahn, Yonghan
+DA  - 2019
+PY  - 2019
+AB  - Of all the machinery and equipment used on construction sites, excavators are responsible for the greatest number of fatal accidents. Excavation is an inherently risky process due to imprecise work processes and the unstable external environment on most work sites. The resulting accidents cause serious injuries that threaten the lives of not only the excavator pilots but also those working around them. In this study, we propose a mechanical device that is capable of operating the excavator remotely from a nearby safe location such as a site office. To ensure worker safety and at the same time boost the productivity of excavation operations, data from 3D scanners, cameras, and sensors were combined to create a detailed 3D picture of the area surrounding the excavation site to guide a remotely operated excavating system. Rather than modifying the excavator itself, a removable manipulator was mounted on the joystick in the excavator&rsquo;s cockpit. Our proposed system was tested on a standard commercial excavator to verify its performance for a real-world excavation task.
+DO  - 10.3390/s19224853
+IS  - 22
+SN  - 1424-8220
+T2  - Sensors
+TI  - Development of Unmanned Excavator Vehicle System for Performing Dangerous Construction Work
+VL  - 19
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Hansen, Søren Gustenhoff
+AU  - Kunic, Anja
+AU  - Naboni, Roberto
+DA  - 2021
+PY  - 2021
+AB  - The advent of Robotic Timber Assembly is offering exciting possibilities and challenges for structural developments. This research proposes a new concept of timber connections used in automated robotic assembly and disassembly. The connection presents some interesting features: it facilitates self-alignment during the construction process, it provides enhanced shear capacity compared to conventional connections, and it has ductile behaviour. The paper presents an experimental programme to investigate the shear capacity and the influence of essential design parameters. Detailed displacement measurement through Digital Image Correlation allows the deduction of the connection’s exact load response. An analytical model is derived based on the observed failure mechanisms and compared with experimental results for validation. The results show the good accuracy of the developed calculation models.
+DO  - https://doi.org/10.1016/j.engstruct.2021.112795
+SN  - 0141-0296
+SP  - 112795
+T2  - Engineering Structures
+TI  - A reversible connection for robotic assembly of timber structures
+VL  - 245
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Cabrera Jauregui, Pablo
+DA  - 2022
+PY  - 2022
+AB  - Even though computer simulation of environmental factors and manufacturing technologies have experienced a fast development, architectural workflows that can take advantage of the possibilities created by these developments have been left behind and architectural design processes have not evolved at the same rate. This paper presents a design to fabrication workflow that explores data driven design to improve performance of facades, implementing for this purpose computational tools to handle environmental data complexity and proposes robotic fabrication technologies to facilitate façade components fabrication.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-16-5983-6_15
+SN  - 978-981-16-5983-6
+SP  - 158-167
+T2  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+TI  - Environmentally Driven Aggregate Façade Systems
+A2  - Yuan, Philip F
+A2  - Chai, Hua
+A2  - Yan, Chao
+A2  - Leach, Neil
+C1  - Singapore
+C2  - 2022
+C3  - Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Chai, Hua
+ED  - Yan, Chao
+ED  - Leach, Neil
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Neythalath, Narendrakrishnan
+AU  - Søndergaard, Asbjørn
+AU  - Kumaravel, Bhavatarini
+AU  - Bærentzen, Jakob Andreas
+AU  - Naboni, Roberto
+DA  - 2021
+PY  - 2021
+AB  - Visual Programming Language (VPL) is utilized with increasing frequency in Architectural, Engineering and Construction (AEC) industries to accomplish tasks relating to advanced geometry and complex designs. In recent developments, VPLs have gained traction in robotic research, where they are being explored as a good tool for robotic programming. While visual programming holds several key advantages justifying this attention, it comes with key limitations for developing commercial-grade robotic applications. Such applications need to be easily maintainable, stable and performance optimal to be able to succeed in the market. In this paper, we argue that the situation with regard to visual programming is similar to that of textual programming from 1960s. The universally adopted strong abstraction mechanisms vastly improved the condition for the latter. We then proceed to propose the utilization of software design patterns as a method to overcome some of the existing challenges faced by adopters of VPLs. Six novel design patterns are introduced, and their application is exemplified by industrial software development case studies.
+DO  - https://doi.org/10.1016/j.autcon.2021.103965
+SN  - 0926-5805
+SP  - 103965
+T2  - Automation in Construction
+TI  - Applying software design patterns to graph-modelled robotic workflows
+VL  - 132
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Yuan, Philip F
+AU  - Chai, Hua
+AU  - Yan, Chao
+AU  - Zhou, Jin Jiang
+DA  - 2016
+PY  - 2016
+T2  - Proceedings of the 36st Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)—Posthuman Frontiers
+TI  - Robotic fabrication of structural performance-based timber gridshell in large-scale building scenario
+C2  - 2016
+C3  - Proceedings of the 36st Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)—Posthuman Frontiers
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Chai, Hua
+AU  - Zhang, Liming
+AU  - Yuan, Philip F
+DA  - 2020
+PY  - 2020
+AB  - Robotic Timber Construction has been widely researched in the last decade with remarkable advancements. While existing robotic timber construction technologies were mostly developed for specific tasks, integrated platforms aiming for industrialization has become a new trend. Through the integration of timber machining center and advanced robotics, this research tries to develop an advanced timber construction platform with multi-robot system. The Timber Construction Platform is designed as a combination of three parts: multi-robot system, sensing system, and control system. While equipped with basic functions of machining centers that allows multi-scale multifunctional timber components’ prefabrication, the platform also served as an experimental facility for innovative robotic timber construction techniques, and a service platform that integrates timber structure design and construction through real-time information collection and feedback. Thereby, this platform has the potential to be directly integrated into the timber construction industry, and contributes to a mass-customized mode of timber structures design and construction.
+CY  - Singapore
+DO  - 10.1007/978-981-15-6568-7_9
+SN  - 978-981-15-6568-7
+SP  - 129-144
+T2  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+TI  - Advanced Timber Construction Platform Multi-Robot System for Timber Structure Design and Prefabrication
+A2  - Yuan, Philip F
+A2  - Xie, Mike
+A2  - Leach, Neil
+A2  - Yao, Jiawei
+A2  - Wang, Xiang
+C1  - Singapore
+C2  - 2020
+C3  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Xie, Mike
+ED  - Leach, Neil
+ED  - Yao, Jiawei
+ED  - Wang, Xiang
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Naboni, Roberto
+AU  - Kunic, Anja
+AU  - Marino, Dario
+AU  - Hajikarimian, Hamed
+DA  - 2022
+PY  - 2022
+AB  - Standard wood bending approachesrely either on heavy industrial processes optimized for repeatability or on crafting techniques that are mostly intended for the production of small-scale products. Contemporary research focuses on digital fabrication methods to overcome geometrical limitations and automate freeform wood construction without the need for highly specialized craftsmanship. The presented research focuses on robotic zip-bending to achieve custom curved wood elements with structural properties. The technique uses kerfing patterns applied to two layers of planar wood elements to achieve a zipped composite with precomputed bending and twisting behaviour. The article describes the entire workflow from initial material studies to the realization of a robotically-made 1:1 structural installation. The involved methods, such as mechanical testing, geometrical form-finding, structural FEA simulation, CNC robot programming, and 3D scanning, are described with extensive qualitative analysis and quantitative data. The work demonstrates robotic zip-bending’s structural and geometrical capabilities for prospective applications in the construction industry, including suggestions for future research developments.
+DO  - https://doi.org/10.1007/s44150-022-00030-3
+IS  - 1
+SN  - 2730-9894
+SP  - 63-82
+T2  - Architecture, Structures and Construction
+TI  - Robotic zip-bending of wood structures with programmable curvature
+VL  - 2
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Chen, Chen
+AU  - Tran Huy, Duc
+AU  - Tiong, Lee Kong
+AU  - Chen, I-Ming
+AU  - Cai, Yiyu
+DA  - 2019
+PY  - 2019
+AB  - Cross-industry learning of the Toyota production system has inspired the precast factories in the construction industry to adopt an automated guided vehicle (AGV)-based flow production system for the manufacturing of their modular prefabricated products. Compared to the production process of automobiles, the manufacturing process of modular prefabricated products is very unbalanced leading to a large pool of queues. And additionally, after some operations, settling is needed. Hence, due to these unique features, facility layout is a crucial element that needs to be well planned in order to achieve a feasible and efficient system. In this regard, this paper proposes an approach to plan the facility layout of the investigated AGV-based modular prefabricated manufacturing system. The paper firstly gives an optimization method for the size arrangement of the workstation area and the storage area. There are two conflicting objectives in the optimization model: one is to minimize the production time and the other is to maximize the workstation utilization. A simulation based non-dominated sorting genetic algorithm is developed to solve the model. Then, the paper proposes a heuristic method to guide the placement, reshuffle, and retrieval of the modular prefabricated products in the storage area. According to the heuristic, there is no need of dedicated paths for AGVs. The storage area can be fully occupied by the work-in-progress and the AGV traveling paths are dynamically generated. And thirdly, the paper is also able to provide a suitable size of the AGV fleet which is able to accomplish the moving tasks in time. The experimental test on an industrial case shows the potential of the proposed planning approach to guide the real practice.
+DO  - https://doi.org/10.1016/j.autcon.2018.08.008
+SN  - 0926-5805
+SP  - 310-321
+T2  - Automation in Construction
+TI  - Optimal facility layout planning for AGV-based modular prefabricated manufacturing system
+VL  - 98
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Liu, Yizhi
+AU  - Habibnezhad, Mahmoud
+AU  - Jebelli, Houtan
+DA  - 2021
+PY  - 2021
+AB  - Recently, the use of collaborative robots has started to emerge at construction sites. Such incorporation into these human-dominated environments can raise safety concerns as most robots are not fully automated and require some sort of control mechanism. Conventional control systems may fall short under specific situations in which workers require robotic assistance but cannot use their hands to control the robot. Brain-computer interface (BCI) can offer such hands-free controllability, a non-muscular communicative channel that can establish an interpretive pathway between humans and robots. This paper proposes a BCI-based system to remotely control a robot by continuously capturing workers' brainwaves acquired from a wearable electroencephalogram (EEG) device and interpreting them into robotic commands with 90% accuracy. The findings revealed the proposed system holds promise for enhancing robot control in hazardous operations where the ability of the worker to physically direct the robot is limited, such as underwater and space construction.
+DO  - https://doi.org/10.1016/j.autcon.2020.103523
+SN  - 0926-5805
+SP  - 103523
+T2  - Automation in Construction
+TI  - Brain-computer interface for hands-free teleoperation of construction robots
+VL  - 123
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Moura, M S
+AU  - Rizzo, C
+AU  - Serrano, D
+DA  - 2021
+PY  - 2021
+DO  - 10.1109/ICARSC52212.2021.9429779
+SN  - VO  -
+SP  - 12-18
+T2  - 2021 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)
+TI  - BIM-based Localization and Mapping for Mobile Robots in Construction
+C2  - 2021
+C3  - 2021 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Yang, Guang
+AU  - Wang, Shuoyu
+AU  - Okamura, Hajime
+AU  - Shen, Bo
+AU  - Ueda, Yasuhiro
+AU  - Yasui, Toshiaki
+AU  - Yamada, Tetsuya
+AU  - Miyazawa, Yuki
+AU  - Yoshida, Satomi
+AU  - Inada, Yuta
+AU  - Ino, Shingo
+AU  - Okuhata, Kazuo
+AU  - Mizobuchi, Yoshinobu
+DA  - 2021
+PY  - 2021
+AB  - Continued attempts have been conducted to improve construction productivity with automatic material transportation robots, yet neither of them has been popularized. The reason is that navigating in highly unstructured and dynamic indoor environments remains a great challenge. Therefore, we present a hallway exploration-inspired guidance approach (HEIGA), which guides an agent to its destination based on a series of directional guidance without the need for self-localization in a global frame. A series of experiments were conducted which prove that fully autonomous material transportation can be realized without being influenced by the complexity or dynamics of real construction sites. We expect this new approach to effectively: (i)free workers from heavy and repetitive material transportation tasks; and (ii) improve construction productivity. In the future, the presented approach will be applied in construction sites considering multi-robot collaboration, aiming at a higher material transportation efficiency.
+DO  - https://doi.org/10.1016/j.autcon.2021.103758
+SN  - 0926-5805
+SP  - 103758
+T2  - Automation in Construction
+TI  - Hallway exploration-inspired guidance: applications in autonomous material transportation in construction sites
+VL  - 128
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Halder, Srijeet
+AU  - Afsari, Kereshmeh
+AU  - Chiou, Erin
+AU  - Patrick, Rafael
+AU  - Hamed, Kaveh Akbari
+DA  - 2023
+PY  - 2023
+AB  - Construction inspection and monitoring are key activities in construction projects. Automation of inspection tasks can address existing limitations and inefficiencies of the manual process to enable systematic and consistent construction inspection. However, there is a lack of an in-depth understanding of the process of construction inspection and monitoring and the tasks and sequences involved to provide the basis for task delegation in a human-technology partnership. The purpose of this research is to study the conventional process of inspection and monitoring of construction work currently implemented in construction projects and to develop an alternative process using a quadruped robot as an inspector assistant to overcome the limitations of the conventional process. This paper explores the use of quadruped robots for construction inspection and monitoring with an emphasis on a human-robot teaming approach. Technical development and testing of the robotic technology are not in the scope of this study. The results indicate how inspector assistant quadruped robots can enable a human-technology partnership in future construction inspection and monitoring tasks. The research was conducted through on-site experiments and observations of inspectors during construction inspection and monitoring followed by a semi-structured interview to develop a process map of the conventional construction inspection and monitoring process. The study also includes on-site robot training and experiments with the inspectors to develop an alternative process map to depict future construction inspection and monitoring work with the use of an inspector assistant quadruped robot. Both the conventional and alternative process maps were validated through interview surveys with industry experts against four criteria including, completeness, accuracy, generalizability, and comprehensibility. The findings suggest that the developed process maps reflect existing and future construction inspection and monitoring work.
+DO  - https://doi.org/10.1016/j.jobe.2022.105814
+SN  - 2352-7102
+SP  - 105814
+T2  - Journal of Building Engineering
+TI  - Construction inspection & monitoring with quadruped robots in future human-robot teaming: A preliminary study
+VL  - 65
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Halder, Srijeet
+AU  - Afsari, Kereshmeh
+AU  - Serdakowski, John
+AU  - DeVito, Stephen
+DA  - 2021
+PY  - 2021
+DO  - 10.22260/ISARC2021/0005
+SN  - 2413-5844
+SP  - 17-24
+T2  - Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC)
+TI  - A Methodology for BIM-enabled Automated Reality Capture in Construction Inspection with Quadruped Robots
+A2  - Zhu, Zhenhua
+ED  - Zhu, Zhenhua
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Srijeet, Halder
+AU  - Kereshmeh, Afsari
+AU  - John, Serdakowski
+AU  - Stephen, DeVito
+AU  - Ryan, King
+DA  - 2023/05/26
+PY  - 2023
+AB  - Construction progress monitoring is a critical inspection activity. It is mostly a manual process performed through in-person visual inspection, which is time-consuming and prone to human error. The key in progress monitoring is accurate, timely, and regular data collection and analysis of the construction process. Autonomous data collection with mobile robots can potentially improve the accuracy of data acquisition for construction progress monitoring. This study uses a four-legged robot to automate data collection in construction progress monitoring. The goal is to study the navigation accuracy of the legged robot in the on-site data acquisition process of progress monitoring. The research studies human operator positioning in the data collection process and undertakes a set of experimental investigations with the legged robot to retrace the path recorded on its controller and analyze the accuracy of the robot's autonomous navigation in multiple missions. Findings reveal an Autowalk position error of 0.283 m to 0.633 m from the recorded path.
+DO  - doi:10.1061/9780784483893.134
+N1  - doi:10.1061/9780784483893.134
+SP  - 1092-1100
+T2  - Computing in Civil Engineering 2021
+T3  - Proceedings
+TI  - Accuracy Estimation for Autonomous Navigation of a Quadruped Robot in Construction Progress Monitoring
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Asadi, Khashayar
+AU  - Kalkunte Suresh, Akshay
+AU  - Ender, Alper
+AU  - Gotad, Siddhesh
+AU  - Maniyar, Suraj
+AU  - Anand, Smit
+AU  - Noghabaei, Mojtaba
+AU  - Han, Kevin
+AU  - Lobaton, Edgar
+AU  - Wu, Tianfu
+DA  - 2020
+PY  - 2020
+AB  - There have been recent efforts to increase the degree of automation and frequency of data collection for construction applications using Unmanned Aerial/Ground Vehicles (UAV/UGV). However, the current practice of data collection is traditionally performed, which is manual, costly, time-consuming, and error-prone. Developing vision-based mobile robotic systems that are aware of its surrounding and capable of autonomous navigation are becoming essential to many construction applications, namely surveying, monitoring, and inspection. Nevertheless, the systems above suffer from a series of performance issues. One major problem is inefficient navigation in indoor and cluttered scenes with many obstacles and barriers, where some places are inaccessible by a UGV. To provide a solution to this problem, this paper designs a UAV-UGV team that integrates two custom-built mobile robots. The UGV autonomously navigates through space, leveraging its sensors. The UAV acts as an external eye for the UGV, observing the scene from a vantage point that is inaccessible to the UGV. The relative pose of the UAV is estimated continuously, which allows it to maintain a fixed location that is relative to the UGV. The key aspects for the development of this system that is capable of autonomous navigation are the localization of both UAV and UGV, mapping of the surrounding environment, and efficient path planning using multiple sensors. The proposed system is tested in an indoor and cluttered construction-like environment. The performance of the system demonstrates the feasibility of developing and deploying a robust and automated data collection system for construction applications in the near future.
+DO  - https://doi.org/10.1016/j.autcon.2019.103068
+SN  - 0926-5805
+SP  - 103068
+T2  - Automation in Construction
+TI  - An integrated UGV-UAV system for construction site data collection
+VL  - 112
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Asadi, Khashayar
+AU  - Ramshankar, Hariharan
+AU  - Pullagurla, Harish
+AU  - Bhandare, Aishwarya
+AU  - Shanbhag, Suraj
+AU  - Mehta, Pooja
+AU  - Kundu, Spondon
+AU  - Han, Kevin
+AU  - Lobaton, Edgar
+AU  - Wu, Tianfu
+DA  - 2018
+PY  - 2018
+SN  - 0926-5805
+SP  - 470-482
+T2  - Automation in Construction
+TI  - Vision-based integrated mobile robotic system for real-time applications in construction
+VL  - 96
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Siebert, Sebastian
+AU  - Teizer, Jochen
+DA  - 2014
+PY  - 2014
+AB  - Unmanned Aerial Vehicle (UAV) systems as a data acquisition platform and as a measurement instrument are becoming attractive for many surveying applications in civil engineering. Their performance, however, is not well understood for these particular tasks. The scope of the presented work is the performance evaluation of a UAV system that was built to rapidly and autonomously acquire mobile three-dimensional (3D) mapping data. Details to the components of the UAV system (hardware and control software) are explained. A novel program for photogrammetric flight planning and its execution for the generation of 3D point clouds from digital mobile images is explained. A performance model for estimating the position error was developed and tested in several realistic construction environments. Test results are presented as they relate to large excavation and earth moving construction sites. The experiences with the developed UAV system are useful to researchers or practitioners in need for successfully adapting UAV technology for their application(s).
+DO  - https://doi.org/10.1016/j.autcon.2014.01.004
+SN  - 0926-5805
+SP  - 1-14
+T2  - Automation in Construction
+TI  - Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system
+VL  - 41
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Elmakis, O
+AU  - Shaked, T
+AU  - Degani, A
+DA  - 2022
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3170408
+SN  - 2169-3536 VO  - 10
+SP  - 51209-51220
+T2  - IEEE Access
+TI  - Vision-Based UAV-UGV Collaboration for Autonomous Construction Site Preparation
+VL  - 10
+ID  - ITEM-1
+ER  - 
+TY  - THES
+AU  - Wang, Zeli
+DA  - 2021
+PY  - 2021
+TI  - The development and evaluation of an on-site construction and demolition waste recycling robot
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Wang, Zeli
+AU  - Li, Heng
+AU  - Yang, Xintao
+DA  - 2020
+PY  - 2020
+AB  - Construction and demolition waste (CDW) causes severe pollution on a global scale, as we can see from western countries' as well as Chinese statistics. CDW accounts over 25% of Hong Kong’s solid waste and about 40% for Australia and EU. The classification and recycling of CDW on construction sites make a vital contribution to the successful recycling of CDW. Currently, recycling of onsite construction waste is very time consuming and labor-intensive, which is probably one of the most critical reasons for inefficient CDW management. Previous experiences found that computer vision performed well in CDW recycling, but in special cases, the accuracy of the patrol and the picking method may cause failure. To reduce the occurrence of failure, this research adopts the Simultaneous Localization and Mapping (SLAM) technology and the instance segmentation method to enable the robot to cope with complex site situations. A database of CDW was developed and used to train a computer vision model for recognizing residual pipes and cables. The feasibility of developed methods and algorithms was evaluated through both lab and site experiments. The system can be improved and applied to other objects, which is useful for researchers and practitioners engaged in similar tasks.
+DO  - https://doi.org/10.1016/j.jobe.2020.101769
+SN  - 2352-7102
+SP  - 101769
+T2  - Journal of Building Engineering
+TI  - Vision-based robotic system for on-site construction and demolition waste sorting and recycling
+VL  - 32
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Ku, Yuedong
+AU  - Yang, Jianhong
+AU  - Fang, Huaiying
+AU  - Xiao, Wen
+AU  - Zhuang, Jiangteng
+DA  - 2021
+PY  - 2021
+AB  - The traditional construction and demolition waste (CDW) treatment process adopts the method of crushing and screening after mixing and combines the method with manual sorting for resource recycling. However, there is a problem of low recycling purity and low efficiency of manual sorting after mixed screening. This paper proposes a robot for sorting CDW, which is used to finely sort a large number of objects before mixing and crushing. The use of the robot improves the level of resource utilization of CDW. However, under actual working conditions, the adhesion and stacking of CDW on the conveyor belt and the irregularity of the shapes of CDW lead to errors in grasping-information. Thus, a deep learning method for grasping detection is proposed. The method generates some grasping rectangles through a searching algorithm, and inputs the rectangles to the neural network. Then, the network outputs the optimal grasping pose. The experiment demonstrated that the original accuracy of robotic grasping was only 70%. After deep learning for grasping detection, the accuracy was over 90%, which thoroughly meets the requirements of efficiency and accuracy for sorting CDW under actual working conditions.
+DO  - 10.1007/s10163-020-01098-z
+IS  - 1
+SN  - 1611-8227
+SP  - 84-95
+T2  - Journal of Material Cycles and Waste Management
+TI  - Deep learning of grasping detection for a robot used in sorting construction and demolition waste
+VL  - 23
+ID  - ITEM-1
+ER  - 
+TY  - CONF
+AU  - Tong, Yue
+AU  - Xu, Zhen
+DA  - 2020
+PY  - 2020
+AB  - Information technology is booming, and digital fabrication or intelligent construction will be an important key point in the industrialization of buildings. In recent years, the research of digital technology in the field of architecture design is more about the prototype generation in the concept stage, lacking digital entities of physical output that can get feedback. China started late in these two areas, and it is important to study the intelligent construction in the industrialization of buildings. Intelligent construction requires digital text, digital design, digital control processing, digital fabrication, and intelligent management after completion. This reflects informationization to promote the transformation and upgrading of manufacturing. Slip Forming is one of the most widely used construction techniques. Nonlinear geometries produced via algorithmic design processes are not easily achievable through traditional rigid formwork process. Now a more intelligent slip forming process is required to efficiently represent digital physical entities. This paper firstly sorts out the intelligent construction under the background of 4.0 era, its history, construction method, equipment technology and construction practice. The paper presents a digital formwork processing developed to work in conjunction with a 6-axis robotic arm for shaping doubly curved column based on the traditional slip forming technique. The research findings are intended to explore the intelligent production of nonlinear panels, and proved that this unique slip forming is a more sustainable method of robotic construction in 4.0 era.
+CY  - Singapore
+DO  - https://doi.org/10.1007/978-981-13-8153-9_30
+SN  - 978-981-13-8153-9
+SP  - 331-345
+T2  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+TI  - Application of Robotic Arm Technology in Intelligent Construction
+A2  - Yuan, Philip F
+A2  - Xie, Yi Min (Mike)
+A2  - Yao, Jiawei
+A2  - Yan, Chao
+C1  - Singapore
+C2  - 2020
+C3  - Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication
+ED  - Yuan, Philip F
+ED  - Xie, Yi Min (Mike)
+ED  - Yao, Jiawei
+ED  - Yan, Chao
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Kim, Sungjin
+AU  - Peavy, Matthew
+AU  - Huang, Pei-Chi
+AU  - Kim, Kyungki
+DA  - 2021
+PY  - 2021
+AB  - A major challenge toward construction robotization is a lack of a system that generates detailed behaviors of robots as part of the construction process based on information contained in building information modeling (BIM) and construction schedules. This study extends BIM to incorporate robot task planning and generate detailed motions conducting construction tasks. A prototype was built upon robot operating system (ROS), focusing on generating robot task plans for indoor wall painting. The prototype includes a converter that generates a ROS-compliant world file from industry foundation classes (IFC) file and sub-processes that conduct localization, navigation, and motion planning. A case study was conducted to demonstrate the system's capability to simulate behaviors of a painting robot and evaluate the performance within the context of the construction-related tasks. The case study demonstrates the proposed BIM-leveraged robot task planning can integrate construction and robotics domains to plan operations of autonomous robots in construction projects.
+DO  - https://doi.org/10.1016/j.autcon.2021.103720
+SN  - 0926-5805
+SP  - 103720
+T2  - Automation in Construction
+TI  - Development of BIM-integrated construction robot task planning and simulation system
+VL  - 127
+ID  - ITEM-1
+ER  - 
+TY  - JOUR
+AU  - Muneer, Amgad
+AU  - Dairabayev, Zhan
+DA  - 2021
+PY  - 2021
+DO  - http://doi.org/10.11591/ijra.v10i1.pp68-74
+IS  - 1
+SP  - 68-74
+T2  - IAES International Journal of Robotics and Automation (IJRA)
+TI  - Design and implementation of automatic painting mobile robot
+VL  - 10
+ID  - ITEM-1
+ER  - 
