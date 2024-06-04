@@ -1,116 +1,117 @@
-#Additive Manufacturing
-
-
-
-Auxetics
---------
-
-
-Concrete
---------
-
-
-Cellulose-chitosan
-------------------
-
-
-Carbon Fibre
-------------
-
-
-Fibre-reinforced Plastic
-------------------------
-
-
-Thermoplastic Polyurethane
---------------------------
-
-
-Thermoplastic Resin
--------------------
-
-
-Assembly
-========
-
-
-Boulder
--------
-
-
-Brick
------
-
-
-Concrete Block
---------------
-
-
-Façade
-------
-
-
-Lightweight Steel Structure
----------------------------
-
-
-Lightweight Partition Wall
---------------------------
-
-
-Masonry Arch
-------------
-
-
-Polyurethane Foam Module
-------------------------
-
-
-Timber Slat
------------
-
-
-Excavation
-==========
-
-
-Fabrication
-===========
-
-
-Timber Slat Milling
--------------------
-
-
-Timber Lamination Milling
--------------------------
-
-
-Material Transportation
-=======================
-
-
-Site Inspection
-===============
-
-
-Surveying
-=========
-
-
-Recycling and Sorting
+1. Additive Manufacturing
 =====================
 
 
-Construction Waste
+
+1.1 Auxetics
+--------
+
+
+1.2 Concrete
+--------
+
+
+1.3 Cellulose-chitosan
 ------------------
 
 
-Slip Forming
+1.4 Carbon Fibre
+------------
+
+
+1.5 Fibre-reinforced Plastic
+------------------------
+
+
+1.6 Thermoplastic Polyurethane
+--------------------------
+
+
+1.7 Thermoplastic Resin
+-------------------
+
+
+2. Assembly
+========
+
+
+2.1 Boulder
+-------
+
+
+2.2 Brick
+-----
+
+
+2.3 Concrete Block
+--------------
+
+
+2.4 Façade
+------
+
+
+2.5 Lightweight Steel Structure
+---------------------------
+
+
+2.6 Lightweight Partition Wall
+--------------------------
+
+
+2.7 Masonry Arch
+------------
+
+
+2.8 Polyurethane Foam Module
+------------------------
+
+
+2.9 Timber Slat
+-----------
+
+
+3. Excavation
+==========
+
+
+4. Fabrication
+===========
+
+
+4.1 Timber Slat Milling
+-------------------
+
+
+4.2 Timber Lamination Milling
+-------------------------
+
+
+5. Material Transportation
+=======================
+
+
+6. Site Inspection
+===============
+
+
+7. Surveying
+=========
+
+
+8. Recycling and Sorting
+=====================
+
+
+8.1 Construction Waste
+------------------
+
+
+9. Slip Forming
 ============
 
 
-Wall Painting
+10. Wall Painting
 =============
 
 
