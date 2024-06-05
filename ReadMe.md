@@ -2,11 +2,11 @@ Additive Manufacturing
 =====================
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
-* Auxetics
+* Auxetics (1 publication)
 
 [1] Özdemir, E., Kiesewetter, L., Antorveza, K., Cheng, T., Leder, S., Wood, D., & Menges, A. (2022). Towards Self-shaping Metamaterial Shells. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 275–285). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_26
 
-* Concrete
+* Concrete (5 publications)
 
 [1] Ali, M. H., Kuralbay, Y., Aitmaganbet, A., & Kamal, M. A. S. (2022). Design of a 6-DOF robot manipulator for 3D printed construction. Materials Today: Proceedings, 49, 1462–1468. https://doi.org/https://doi.org/10.1016/j.matpr.2021.07.228
 
@@ -18,25 +18,25 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 [5] Breseghello, L., & Naboni, R. (2022). Adaptive Toolpath: Enhanced Design and Process Control for Robotic 3DCP. In D. Gerber, E. Pantazis, B. Bogosian, A. Nahmad, & C. Miltiadis (Eds.), Computer-Aided Architectural Design. Design Imperatives: The Future is Now (pp. 301–316). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-19-1280-1_19
 
-* Cellulose-chitosan
+* Cellulose-chitosan (1 publication)
 
 [1] Wei, Y., Markopoulou, A., Zhu, Y., Martin, E. C., & Kirova, N. (2022). Additive Manufacture of Cellulose Based Bio-Material on Architectural Scale. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 286–304). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_27
 
-* Carbon Fibre
+* Carbon Fibre (2 publications)
 
 [1] Mohamed, H., Bao, D. W., & Snooks, R. (2021). Super Composite: Carbon Fibre Infused 3D Printed Tectonics. In P. F. Yuan, J. Yao, C. Yan, X. Wang, & N. Leach (Eds.), Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication (pp. 297–308). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-33-4400-6_28
 
 [2] Lu, M., Zhu, W. R., & Yuan, P. F. (2020). Toward a Collaborative Robotic Platform: FUROBOT. In P. F. Yuan, M. Xie, N. Leach, J. Yao, & X. Wang (Eds.), Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication (pp. 87–101). Singapore: Springer Nature Singapore. https://doi.org/https://doi.org/10.1007/978-981-15-6568-7_6
 
-* Fibre-reinforced Plastic
+* Fibre-reinforced Plastic (1 publication)
  
 [1] Kumar, B. B. M., Hsueh, Y. C., Xin, Z., & Luo, D. (2022). Process and Evaluation of Automated Robotic Fabrication System for In-Situ Structure Confinement. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 368–379). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_34
 
-* Thermoplastic Polyurethane
+* Thermoplastic Polyurethane (1 publication)
  
 [1] Zhang, K., Chermprayong, P., Xiao, F., Tzoumanikas, D., Dams, B., Kay, S., … Kovac, M. (2022). Aerial additive manufacturing with multiple autonomous robots. Nature, 609(7928), 709–717. https://doi.org/10.1038/s41586-022-04988-4
 
-* Thermoplastic Resin
+* Thermoplastic Resin (1 publication)
 
 [1] Yuan, P. F., Meng, H., Yu, L., & Zhang, L. (2016). Robotic Multi-dimensional Printing Based on Structural Performance. In D. Reinhardt, R. Saunders, & J. Burry (Eds.), Robotic Fabrication in Architecture, Art and Design (pp. 92–105). Cham: Springer International Publishing. https://doi.org/https://doi.org/10.1007/978-3-319-26378-6_7
 
@@ -44,13 +44,13 @@ Assembly
 ========
 The studies on robotic assembly featured a number of construction materials, namely, boulder, brick, concrete block, façade, lightweight steel structure, lightweight partition wall, masonry arch, polyurethane form module, and time slat.
 
-* Boulder
+* Boulder (2 publication)
  
 [1] Wermelinger, M., Johns, R., Gramazio, F., Kohler, M., & Hutter, M. (2021). Grasping and Object Reorientation for Autonomous Construction of Stone Structures. IEEE Robotics and Automation Letters, 6(3), 5105–5112. https://doi.org/https://doi.org/10.1109/LRA.2021.3070300
 
 [2] Nubert, J., Khattak, S., & Hutter, M. (2022). Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots. 2022 International Conference on Robotics and Automation (ICRA), 10048–10054. https://doi.org/https://doi.org/10.1109/ICRA46639.2022.9812386
 
-* Brick
+* Brick (5 publications)
 
 [1] Liyanage, T., & Fernando, S. (2021). Optimizing Robotic Swarm Based Construction Tasks. 2021 7th International Conference on Control, Automation and Robotics (ICCAR), 89–92. https://doi.org/10.1109/ICCAR52225.2021.9463439
 
@@ -62,7 +62,7 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 [5] Goessens, S., Mueller, C., & Latteur, P. (2018). Feasibility study for drone-based masonry construction of real-scale structures. Automation in Construction, 94, 458–480. https://doi.org/https://doi.org/10.1016/j.autcon.2018.06.015
 
-* Concrete Block
+* Concrete Block (5 publications)
 
 [1] Ding, L., Jiang, W., Zhou, Y., Zhou, C., & Liu, S. (2020). BIM-based task-level planning for robotic brick assembly through image-based 3D modeling. Advanced Engineering Informatics, 43, 100993. https://doi.org/10.1016/j.aei.2019.100993
 
@@ -74,29 +74,29 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 [5] Ikeda, T., Bando, N., & Yamada, H. (2021). Semi-Automatic Visual Support System with Drone for Teleoperated Construction Robot. Journal of Robotics and Mechatronics, 33(2), 313–321. https://doi.org/https://doi.org/10.20965/jrm.2021.p0313
 
-* Façade
+* Façade (1 publication)
 
 [1] Ali, A. K., Lee, O. J., & Song, H. (2021). Robot-based facade spatial assembly optimization. Journal of Building Engineering, 33, 101556. https://doi.org/https://doi.org/10.1016/j.jobe.2020.101556
 
-* Lightweight Steel Structure
+* Lightweight Steel Structure (2 publications)
 
 [1] Gao, Y., Meng, J., Shu, J., & Liu, Y. (2022). BIM-based task and motion planning prototype for robotic assembly of COVID-19 hospitalisation units—Flatpack house. Automation in Construction, 104370. https://doi.org/10.1016/j.autcon.2022.104370
 
 [2] Shu, J., Li, W., Meng, J., & Gao, Y. (2022). Collision-free trajectory planning for robotic assembly of COVID-19 healthcare facilities. Automation in Construction, 104520. https://doi.org/10.1016/j.autcon.2022.104520
 
-* Lightweight Partition Wall
+* Lightweight Partition Wall (1 publication)
 
 [1] Meng, H., Liang, Z., & Qi, P. (2020). On-Site Automatic Construction of Partition Walls with Mobile Robot and Computer Vision. In P. F. Yuan, Y. M. (Mike) Xie, J. Yao, & C. Yan (Eds.), Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication (pp. 364–372). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-13-8153-9_33
 
-* Masonry Arch
+* Masonry Arch (1 publication)
 
 [1] Bruun, E. P. G., Pastrana, R., Paris, V., Beghini, A., Pizzigoni, A., Parascho, S., & Adriaenssens, S. (2021). Three cooperative robotic fabrication methods for the scaffold-free construction of a masonry arch. Automation in Construction, 129, 103803. https://doi.org/https://doi.org/10.1016/j.autcon.2021.103803
 
-* Polyurethane Foam Module
+* Polyurethane Foam Module (1 publication)
 
 [1] Augugliaro, F., Lupashin, S., Hamer, M., Male, C., Hehn, M., Mueller, M. W., … D’Andrea, R. (2014). The Flight Assembled Architecture installation: Cooperative construction with flying machines. IEEE Control Systems Magazine, 34(4), 46–64. https://doi.org/10.1109/MCS.2014.2320359
 
-* Timber Slat
+* Timber Slat (9 publications)
 
 [1] Zhang, Y., Meina, A., Lin, X., Zhang, K., & Xu, Z. (2021). Digital Twin in Computational Design and Robotic Construction of Wooden Architecture. Advances in Civil Engineering, 2021, 8898997. https://doi.org/10.1155/2021/8898997
 
