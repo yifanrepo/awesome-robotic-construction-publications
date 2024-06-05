@@ -65,25 +65,58 @@ The studies on robotic assembly featured a number of construction materials, nam
 * Concrete Block
 
 [1] Ding, L., Jiang, W., Zhou, Y., Zhou, C., & Liu, S. (2020). BIM-based task-level planning for robotic brick assembly through image-based 3D modeling. Advanced Engineering Informatics, 43, 100993. https://doi.org/10.1016/j.aei.2019.100993
- 
+
+[2] Zhou, C., Tang, B., Ding, L., Sekula, P., Zhou, Y., & Zhang, Z. (2020). Design and automated assembly of Planetary LEGO Brick for lunar in-situ construction. Automation in Construction, 118, 103282. https://doi.org/10.1016/j.autcon.2020.103282
+
+[3] Gao, Y., Shu, J., Xiao, W., & Jin, Z. (2023). Polyhedron-bounded collision checks for robotic assembly of structural components. Automation in Construction, 152, 104904. https://doi.org/https://doi.org/10.1016/j.autcon.2023.104904
+
+[4] Hartmann, V. N., Orthey, A., Driess, D., Oguz, O. S., & Toussaint, M. (2023). Long-Horizon Multi-Robot Rearrangement Planning for Construction Assembly. IEEE Transactions on Robotics, 39(1), 239–252. https://doi.org/10.1109/TRO.2022.3198020
+
+[5] Ikeda, T., Bando, N., & Yamada, H. (2021). Semi-Automatic Visual Support System with Drone for Teleoperated Construction Robot. Journal of Robotics and Mechatronics, 33(2), 313–321. https://doi.org/https://doi.org/10.20965/jrm.2021.p0313
 
 * Façade
 
+[1] Ali, A. K., Lee, O. J., & Song, H. (2021). Robot-based facade spatial assembly optimization. Journal of Building Engineering, 33, 101556. https://doi.org/https://doi.org/10.1016/j.jobe.2020.101556
 
 * Lightweight Steel Structure
- 
+
+[1] Gao, Y., Meng, J., Shu, J., & Liu, Y. (2022). BIM-based task and motion planning prototype for robotic assembly of COVID-19 hospitalisation units—Flatpack house. Automation in Construction, 104370. https://doi.org/10.1016/j.autcon.2022.104370
+
+[2] Shu, J., Li, W., Meng, J., & Gao, Y. (2022). Collision-free trajectory planning for robotic assembly of COVID-19 healthcare facilities. Automation in Construction, 104520. https://doi.org/10.1016/j.autcon.2022.104520
 
 * Lightweight Partition Wall
- 
+
+[1] Meng, H., Liang, Z., & Qi, P. (2020). On-Site Automatic Construction of Partition Walls with Mobile Robot and Computer Vision. In P. F. Yuan, Y. M. (Mike) Xie, J. Yao, & C. Yan (Eds.), Proceedings of the 1st International Conference on Computational Design and Robotic Fabrication (pp. 364–372). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-13-8153-9_33
 
 * Masonry Arch
- 
+
+[1] Bruun, E. P. G., Pastrana, R., Paris, V., Beghini, A., Pizzigoni, A., Parascho, S., & Adriaenssens, S. (2021). Three cooperative robotic fabrication methods for the scaffold-free construction of a masonry arch. Automation in Construction, 129, 103803. https://doi.org/https://doi.org/10.1016/j.autcon.2021.103803
 
 * Polyurethane Foam Module
- 
+
+[1] Augugliaro, F., Lupashin, S., Hamer, M., Male, C., Hehn, M., Mueller, M. W., … D’Andrea, R. (2014). The Flight Assembled Architecture installation: Cooperative construction with flying machines. IEEE Control Systems Magazine, 34(4), 46–64. https://doi.org/10.1109/MCS.2014.2320359
 
 * Timber Slat
- 
+
+[1] Zhang, Y., Meina, A., Lin, X., Zhang, K., & Xu, Z. (2021). Digital Twin in Computational Design and Robotic Construction of Wooden Architecture. Advances in Civil Engineering, 2021, 8898997. https://doi.org/10.1155/2021/8898997
+
+[2] Chai, H., Wagner, H. J., Guo, Z., Qi, Y., Menges, A., & Yuan, P. F. (2022). Computational design and on-site mobile robotic construction of an adaptive reinforcement beam network for cross-laminated timber slab panels. Automation in Construction, 142, 104536. https://doi.org/https://doi.org/10.1016/j.autcon.2022.104536
+
+[3] Wagner, H. J., Chai, H., Guo, Z., Menges, A., & Yuan, P. F. (2020). Towards an on-site fabrication system for bespoke, unlimited and monolithic timber slabs. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Retrieved from http://ras.papercept.net/images/temp/IROS/files/3672.pdf
+
+[3] Eversmann, P., Gramazio, F., & Kohler, M. (2017). Robotic prefabrication of timber structures: towards automated large-scale spatial assembly. Construction Robotics, 1(1), 49–60. https://doi.org/https://doi.org/10.1007/s41693-017-0006-2
+
+[4] Søndergaard, A., Amir, O., Eversmann, P., Piskorec, L., Stan, F., Gramazio, F., & Kohler, M. (2016). Topology Optimization and Robotic Fabrication of Advanced Timber Space-Frame Structures. In D. Reinhardt, R. Saunders, & J. Burry (Eds.), Robotic Fabrication in Architecture, Art and Design (pp. 190–203). Cham: Springer International Publishing. https://doi.org/https://doi.org/10.1007/978-3-319-26378-6_14
+
+[5] Willmann, J., Knauss, M., Bonwetsch, T., Apolinarska, A. A., Gramazio, F., & Kohler, M. (2016). Robotic timber construction — Expanding additive fabrication to new dimensions. Automation in Construction, 61, pp.16-23. https://doi.org/10.1016/j.autcon.2015.09.011
+
+[6] Apolinarska, A. A., Pacher, M., Li, H., Cote, N., Pastrana, R., Gramazio, F., & Kohler, M. (2021). Robotic assembly of timber joints using reinforcement learning. Automation in Construction, 125, 103569. https://doi.org/https://doi.org/10.1016/j.autcon.2021.103569
+
+[7] Naboni, R., Kunic, A., Kramberger, A., & Schlette, C. (2021). Design, simulation and robotic assembly of reversible timber structures. Construction Robotics, 5(1), 13–22. https://doi.org/https://doi.org/10.1007/s41693-020-00052-7
+
+[8] Kramberger, A., Kunic, A., Iturrate, I., Sloth, C., Naboni, R., & Schlette, C. (2022). Robotic Assembly of Timber Structures in a Human-Robot Collaboration Setup. Frontiers in Robotics and AI, Vol. 8. https://doi.org/https://doi.org/10.3389/frobt.2021.768038
+
+[9] Kunic, A., Naboni, R., Kramberger, A., & Schlette, C. (2021). Design and assembly automation of the Robotic Reversible Timber Beam. Automation in Construction, 123, 103531. https://doi.org/https://doi.org/10.1016/j.autcon.2020.103531
 
 Excavation
 ==========
