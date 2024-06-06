@@ -1,3 +1,5 @@
+A curated dataset of robotic taxonomy in construction. :octocat:
+
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphic-abstract.png)
 
 The number after the title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
