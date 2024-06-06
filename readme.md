@@ -3,7 +3,7 @@ A curated dataset of robotic taxonomy in construction. :octocat:
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
 
-The number after the title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
+The number after the publication title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
 
 **Additive Manufacturing**
 -------------------------
