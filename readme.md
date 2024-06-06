@@ -1,4 +1,4 @@
-A curated dataset of robot taxonomy in construction. <sup>:hole:</sup> 
+A curated dataset of robot taxonomy in construction. <sup>:floppy_disk:</sup> 
 ================================================================
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
