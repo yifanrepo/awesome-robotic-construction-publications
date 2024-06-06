@@ -9,7 +9,7 @@ The number after the publication title stands for the year in which the research
 -------------------------
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
-&#8203;- Auxetics 
+&#8203;* Auxetics 
 
 [Towards Self-shaping Metamaterial Shells. (2021)](https://doi.org/10.1007/978-981-16-5983-6_26) 
 
