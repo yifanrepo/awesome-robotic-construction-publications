@@ -1,4 +1,4 @@
-A curated dataset of robot taxonomy in construction. <sup>:boom:</sup>
+A curated dataset of robot taxonomy in construction. <sup>:mechanical_arm:</sup>
 ================================================================
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
