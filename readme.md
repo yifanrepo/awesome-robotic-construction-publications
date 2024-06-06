@@ -1,4 +1,4 @@
-A curated dataset of robot taxonomy in construction. <sup>:japanese_goblin:</sup>
+A curated dataset of robot taxonomy in construction. <sup>:robot:</sup>
 ================================================================
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
