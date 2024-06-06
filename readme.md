@@ -1,4 +1,4 @@
-![image](https://github.com/yifanrepo/awesome-robotic-construction-scientific-publications/blob/main/Graphic%20Abstract.tif)
+![image](https://github.com/yifanrepo/awesome-robotic-construction-scientific-publications/blob/main/graphicabstract.png)
 
 Additive Manufacturing
 =====================
