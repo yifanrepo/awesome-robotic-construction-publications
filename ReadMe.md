@@ -122,6 +122,8 @@ Excavation
 ==========
 The excavation study focused on the use of robotic techniques in earthworks such as ground digging.
 
+* Earthwork 
+
 [Development of Unmanned Excavator Vehicle System for Performing Dangerous Construction Work.](https://doi.org/10.3390/s19224853)
 
 Fabrication
@@ -150,6 +152,8 @@ Material Transportation
 =======================
 The material transportation-related studies utilised robots to deliver materials from the on-site storage areas to the construction locations.
 
+* Earthwork
+
 [Optimal facility layout planning for AGV-based modular prefabricated manufacturing system.](https://doi.org/10.1016/j.autcon.2018.08.008)
 
 [Brain-computer interface for hands-free teleoperation of construction robots.](https://doi.org/10.1016/j.autcon.2020.103523)
@@ -161,6 +165,8 @@ The material transportation-related studies utilised robots to deliver materials
 Site Inspection
 ===============
 The site inspection studies concerned with the use of robotic techniques to monitor the progress, quality, and safety concerns of construction projects.
+
+* Progress Monitor
 
 [Construction inspection & monitoring with quadruped robots in future human-robot teaming: A preliminary study.](https://doi.org/10.1016/j.jobe.2022.105814)
 
@@ -175,6 +181,8 @@ The site inspection studies concerned with the use of robotic techniques to moni
 Surveying
 =========
 The surveying work used robots to stake out reference points and markers that could guide the construction of infrastructures such as roads or buildings.
+
+* Site Survey
 
 [Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system.](https://doi.org/10.1016/j.autcon.2014.01.004)
 
@@ -196,11 +204,15 @@ Slip Forming
 ============
 The slip forming study concerned with the use of robot to deal with movable forms for the in-place casting of concrete structural components.
 
+* Form Creation
+
 [Application of Robotic Arm Technology in Intelligent Construction.](https://doi.org/10.1007/978-981-13-8153-9_30)
 
 Wall Painting
 =============
 The research works on wall painting focused on the development of robotic technologies to assist in the spraying of coloured paints on residential interior walls.
+
+* Paint Plan
 
 [Development of BIM-integrated construction robot task planning and simulation system.](https://doi.org/10.1016/j.autcon.2021.103720)
 
