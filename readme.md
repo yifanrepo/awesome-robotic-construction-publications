@@ -5,7 +5,7 @@ A curated dataset of robot taxonomy in construction. <sup>:octocat:</sup>
 
 The number after the publication title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
 
-**Additive Manufacturing** <sup>:mechanical_arm:</sup>
+**Additive Manufacturing** <sup>:rainbow_flag:</sup>
 -------------------------
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
