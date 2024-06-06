@@ -4,7 +4,7 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 * Auxetics 
 
-[1] Özdemir, E., Kiesewetter, L., Antorveza, K., Cheng, T., Leder, S., Wood, D., & Menges, A. (2022). Towards Self-shaping Metamaterial Shells. In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 275–285). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_26
+[1] Özdemir, E., Kiesewetter, L., Antorveza, K., Cheng, T., Leder, S., Wood, D., & Menges, A. (2022). [Towards Self-shaping Metamaterial Shells.](https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_26) In P. F. Yuan, H. Chai, C. Yan, & N. Leach (Eds.), Proceedings of the 3rd International Conference on Computational Design and Robotic Fabrication (pp. 275–285). Singapore: Springer Singapore. https://doi.org/https://doi.org/10.1007/978-981-16-5983-6_26
 
 * Concrete 
 
@@ -148,6 +148,7 @@ The fabrication studies are found to focus on timber crafting with two robotic t
 
 Material Transportation
 =======================
+The material transportation-related studies utilised robots to deliver materials from the on-site storage areas to the construction locations.
 
 [1] Chen, C., Tran Huy, D., Tiong, L. K., Chen, I.-M., & Cai, Y. (2019). Optimal facility layout planning for AGV-based modular prefabricated manufacturing system. Automation in Construction, 98, 310–321. https://doi.org/https://doi.org/10.1016/j.autcon.2018.08.008
 
