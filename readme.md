@@ -5,7 +5,7 @@ A curated dataset of robot taxonomy in construction. <sup>:robot:</sup>
 
 The number after the publication title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest. The .ris library file includes the citation information of all the publications, and can be opened in a renference tool (e.g, EndNote, Mendeley) to form a library folder.
 
-**Additive Manufacturing** <sup>:eyes:</sup>
+**Additive Manufacturing** <sup>:partying_face:</sup>
 -------------------------
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
