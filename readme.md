@@ -1,4 +1,4 @@
-A curated dataset of robotic taxonomy in construction. 
+A curated dataset of robotic taxonomy in construction. <sup>:boom:</sup>
 ================================================================
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
