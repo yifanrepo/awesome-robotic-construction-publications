@@ -1,4 +1,4 @@
-![image](https://github.com/yifanrepo/awesome-robotic-construction-scientific-publications/blob/main/graphicabstract.png)
+![image]()
 
 The number after the title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
 
