@@ -1,4 +1,4 @@
-A curated dataset of robot taxonomy in construction. <sup>:octocat:</sup>
+A curated dataset of robot taxonomy in construction. <sup>:radioactive:</sup>
 ================================================================
 
 ![image](https://github.com/yifanrepo/awesome-robotic-construction-publications/blob/main/graphical-abstract.png)
