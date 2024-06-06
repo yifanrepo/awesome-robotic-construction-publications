@@ -13,7 +13,7 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 [Towards Self-shaping Metamaterial Shells. (2021)](https://doi.org/10.1007/978-981-16-5983-6_26) 
 
-* Concrete 
+&#8203;* Concrete 
 
 [Design of a 6-DOF robot manipulator for 3D printed construction. (2022)](https://doi.org/10.1016/j.matpr.2021.07.228)
 
@@ -25,25 +25,25 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 [Adaptable Tool-Path Planning Method for 3D Concrete Printing Based on the Mapping Method. (2021)](https://doi.org/10.1007/978-981-33-4400-6_24)
 
-* Cellulose-chitosan 
+&#8203;* Cellulose-chitosan 
 
 [Additive Manufacture of Cellulose Based Bio-Material on Architectural Scale. (2021)](https://doi.org/10.1007/978-981-16-5983-6_27)
 
-* Carbon Fibre 
+&#8203;* Carbon Fibre 
 
 [Super Composite: Carbon Fibre Infused 3D Printed Tectonics. (2021)](https://doi.org/10.1007/978-981-33-4400-6_28)
 
 [Toward a Collaborative Robotic Platform: FUROBOT. (2020)](https://doi.org/10.1007/978-981-15-6568-7_6)
 
-* Fibre-reinforced Plastic 
+&#8203;* Fibre-reinforced Plastic 
  
 [Process and Evaluation of Automated Robotic Fabrication System for In-Situ Structure Confinement. (2021)](https://doi.org/10.1007/978-981-16-5983-6_34)
 
-* Thermoplastic Polyurethane 
+&#8203;* Thermoplastic Polyurethane 
  
 [Aerial additive manufacturing with multiple autonomous robots. (2022)](https://doi.org/10.1038/s41586-022-04988-4)
 
-* Thermoplastic Resin 
+&#8203;* Thermoplastic Resin 
 
 [Robotic Multi-dimensional Printing Based on Structural Performance. (2016)](https://doi.org/10.1007/978-3-319-26378-6_7)
 
@@ -52,13 +52,13 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 The studies on robotic assembly featured a number of construction materials, namely, boulder, brick, concrete block, façade, lightweight steel structure, lightweight partition wall, masonry arch, polyurethane form module, and time slat.
 
-* Boulder 
+&#8203;* Boulder 
  
 [Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots. (2022)](https://doi.org/10.1109/ICRA46639.2022.9812386)
 
 [Grasping and Object Reorientation for Autonomous Construction of Stone Structures. (2021)](https://doi.org/10.1109/LRA.2021.3070300)
 
-* Brick 
+&#8203;* Brick 
 
 [Optimizing Robotic Swarm Based Construction Tasks. (2021)](https://doi.org/10.1109/ICCAR52225.2021.9463439)
 
@@ -70,7 +70,7 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 [Feasibility study for drone-based masonry construction of real-scale structures. (2018)](https://doi.org/10.1016/j.autcon.2018.06.015)
 
-* Concrete Block 
+&#8203;* Concrete Block 
 
 [Polyhedron-bounded collision checks for robotic assembly of structural components. (2023)](https://doi.org/10.1016/j.autcon.2023.104904)
 
@@ -82,29 +82,29 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 [Design and automated assembly of Planetary LEGO Brick for lunar in-situ construction. (2020)](https://doi.org/10.1016/j.autcon.2020.103282)
 
-* Façade 
+&#8203;* Façade 
 
 [Robot-based facade spatial assembly optimization. (2020)](https://doi.org/10.1016/j.jobe.2020.101556)
 
-* Lightweight Steel Structure 
+&#8203;* Lightweight Steel Structure 
 
 [BIM-based task and motion planning prototype for robotic assembly of COVID-19 hospitalisation units—Flatpack house. (2022)](https://doi.org/10.1016/j.autcon.2022.104370)
 
 [Collision-free trajectory planning for robotic assembly of COVID-19 healthcare facilities. (2022)](https://doi.org/10.1016/j.autcon.2022.104520)
 
-* Lightweight Partition Wall 
+&#8203;* Lightweight Partition Wall 
 
 [On-Site Automatic Construction of Partition Walls with Mobile Robot and Computer Vision. (2019)](https://doi.org/https://doi.org/10.1007/978-981-13-8153-9_33)
 
-* Masonry Arch 
+&#8203;* Masonry Arch 
 
 [Three cooperative robotic fabrication methods for the scaffold-free construction of a masonry arch. (2021)](https://doi.org/https://doi.org/10.1016/j.autcon.2021.103803)
 
-* Polyurethane Foam Module 
+&#8203;* Polyurethane Foam Module 
 
 [The Flight Assembled Architecture installation: Cooperative construction with flying machines. (2014)](https://doi.org/10.1109/MCS.2014.2320359)
 
-* Timber Slat 
+&#8203;* Timber Slat 
 
 [Computational design and on-site mobile robotic construction of an adaptive reinforcement beam network for cross-laminated timber slab panels. (2022)](https://doi.org/10.1016/j.autcon.2022.104536)
 
@@ -131,7 +131,7 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 The excavation study focused on the use of robotic techniques in earthworks such as ground digging.
 
-* Earthwork 
+&#8203;* Earthwork 
 
 [Development of Unmanned Excavator Vehicle System for Performing Dangerous Construction Work. (2019)](https://doi.org/10.3390/s19224853)
 
@@ -140,7 +140,7 @@ The excavation study focused on the use of robotic techniques in earthworks such
 
 The fabrication studies are found to focus on timber crafting with two robotic techniques, including milling and zip-bending.
 
-* Timber Slat Milling
+&#8203;* Timber Slat Milling
 
 [A reversible connection for robotic assembly of timber structures. (2021)](https://doi.org/10.1016/j.engstruct.2021.112795)
 
@@ -148,13 +148,13 @@ The fabrication studies are found to focus on timber crafting with two robotic t
 
 [Applying software design patterns to graph-modelled robotic workflows. (2021)](https://doi.org/https://doi.org/10.1016/j.autcon.2021.103965)
 
-* Timber Lamination Milling
+&#8203;* Timber Lamination Milling
 
 [Advanced Timber Construction Platform Multi-Robot System for Timber Structure Design and Prefabrication. (2020)](https://doi.org/10.1007/978-981-15-6568-7_9)
 
 [Robotic fabrication of structural performance-based timber gridshell in large-scale building scenario. (2016)](http://cumincad.scix.net/data/works/att/acadia16_196.pdf)
 
-* Timber Frame Zip-bending
+&#8203;* Timber Frame Zip-bending
 
 [Robotic zip-bending of wood structures with programmable curvature. (2022)](https://doi.org/10.1007/s44150-022-00030-3)
 
@@ -163,7 +163,7 @@ The fabrication studies are found to focus on timber crafting with two robotic t
 
 The material transportation-related studies utilised robots to deliver materials from the on-site storage areas to the construction locations.
 
-* Earthwork
+&#8203;* Earthwork
 
 [BIM-based Localization and Mapping for Mobile Robots in Construction. (2021)](https://doi.org/10.1109/ICARSC52212.2021.9429779)
 
@@ -178,7 +178,7 @@ The material transportation-related studies utilised robots to deliver materials
 
 The site inspection studies concerned with the use of robotic techniques to monitor the progress, quality, and safety concerns of construction projects.
 
-* Progress Monitor
+&#8203;* Progress Monitor
 
 [Construction inspection & monitoring with quadruped robots in future human-robot teaming: A preliminary study. (2022)](https://doi.org/10.1016/j.jobe.2022.105814)
 
@@ -195,7 +195,7 @@ The site inspection studies concerned with the use of robotic techniques to moni
 
 The surveying work used robots to stake out reference points and markers that could guide the construction of infrastructures such as roads or buildings.
 
-* Site Survey
+&#8203;* Site Survey
 
 [Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system. (2014)](https://doi.org/10.1016/j.autcon.2014.01.004)
 
@@ -204,7 +204,7 @@ The surveying work used robots to stake out reference points and markers that co
 
 For recycling and sorting, the existing studies have incorporated a variety of construction wastes such as concrete offcut, wood offcut, rubber, plastic bottle, brick debris, and gravel.
 
-* Construction Waste
+&#8203;* Construction Waste
 
 [Vision-Based UAV-UGV Collaboration for Autonomous Construction Site Preparation. (2022)](https://doi.org/10.1109/ACCESS.2022.3170408)
 
@@ -219,7 +219,7 @@ For recycling and sorting, the existing studies have incorporated a variety of c
 
 The slip forming study concerned with the use of robot to deal with movable forms for the in-place casting of concrete structural components.
 
-* Form Creation
+&#8203;* Form Creation
 
 [Application of Robotic Arm Technology in Intelligent Construction. (2019)](https://doi.org/10.1007/978-981-13-8153-9_30)
 
@@ -228,7 +228,7 @@ The slip forming study concerned with the use of robot to deal with movable form
 
 The research works on wall painting focused on the development of robotic technologies to assist in the spraying of coloured paints on residential interior walls.
 
-* Paint Plan
+&#8203;* Paint Plan
 
 [Development of BIM-integrated construction robot task planning and simulation system. (2021)](https://doi.org/10.1016/j.autcon.2021.103720)
 
