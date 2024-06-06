@@ -5,7 +5,7 @@ A curated dataset of robotic taxonomy in construction.
 
 The number after the publication title stands for the year in which the research paper was published. All research papers are put in their respective category and are sorted from newest to oldest.
 
-**Additive Manufacturing** :octocat:
+**Additive Manufacturing** :robot:
 -------------------------
 The additive manufacturing-focused studies conducted their works with the following printing materials: auxetics, concrete, cellulose-chitosan, carbon fibre, fibre-reinforced plastic, thermoplastic polyurethane, and thermoplastic resin.
 
@@ -47,7 +47,7 @@ The additive manufacturing-focused studies conducted their works with the follow
 
 [Robotic Multi-dimensional Printing Based on Structural Performance. (2016)](https://doi.org/10.1007/978-3-319-26378-6_7)
 
-**Assembly** :octocat:
+**Assembly** :robot:
 ------------
 
 The studies on robotic assembly featured a number of construction materials, namely, boulder, brick, concrete block, façade, lightweight steel structure, lightweight partition wall, masonry arch, polyurethane form module, and time slat.
@@ -126,7 +126,7 @@ The studies on robotic assembly featured a number of construction materials, nam
 
 [Robotic timber construction — Expanding additive fabrication to new dimensions. (2016)](https://doi.org/10.1016/j.autcon.2015.09.011)
 
-**Excavation** :octocat:
+**Excavation** :robot:
 -----------
 
 The excavation study focused on the use of robotic techniques in earthworks such as ground digging.
@@ -135,7 +135,7 @@ The excavation study focused on the use of robotic techniques in earthworks such
 
 [Development of Unmanned Excavator Vehicle System for Performing Dangerous Construction Work. (2019)](https://doi.org/10.3390/s19224853)
 
-**Fabrication** :octocat:
+**Fabrication** :robot:
 ---------------
 
 The fabrication studies are found to focus on timber crafting with two robotic techniques, including milling and zip-bending.
@@ -158,7 +158,7 @@ The fabrication studies are found to focus on timber crafting with two robotic t
 
 [Robotic zip-bending of wood structures with programmable curvature. (2022)](https://doi.org/10.1007/s44150-022-00030-3)
 
-**Material Transportation** :octocat:
+**Material Transportation** :robot:
 ---------------------------
 
 The material transportation-related studies utilised robots to deliver materials from the on-site storage areas to the construction locations.
@@ -173,7 +173,7 @@ The material transportation-related studies utilised robots to deliver materials
 
 [Optimal facility layout planning for AGV-based modular prefabricated manufacturing system. (2018)](https://doi.org/10.1016/j.autcon.2018.08.008)
 
-**Site Inspection** :octocat:
+**Site Inspection** :robot:
 -------------------
 
 The site inspection studies concerned with the use of robotic techniques to monitor the progress, quality, and safety concerns of construction projects.
@@ -190,7 +190,7 @@ The site inspection studies concerned with the use of robotic techniques to moni
 
 [Vision-based integrated mobile robotic system for real-time applications in construction. (2018)](https://doi.org/10.1016/j.autcon.2018.10.009)
 
-**Surveying** :octocat:
+**Surveying** :robot:
 ------------
 
 The surveying work used robots to stake out reference points and markers that could guide the construction of infrastructures such as roads or buildings.
@@ -199,7 +199,7 @@ The surveying work used robots to stake out reference points and markers that co
 
 [Mobile 3D mapping for surveying earthwork projects using an Unmanned Aerial Vehicle (UAV) system. (2014)](https://doi.org/10.1016/j.autcon.2014.01.004)
 
-**Recycling and Sorting** :octocat:
+**Recycling and Sorting** :robot:
 -------------------------
 
 For recycling and sorting, the existing studies have incorporated a variety of construction wastes such as concrete offcut, wood offcut, rubber, plastic bottle, brick debris, and gravel.
@@ -214,7 +214,7 @@ For recycling and sorting, the existing studies have incorporated a variety of c
 
 [Deep learning of grasping detection for a robot used in sorting construction and demolition waste. (2020)](https://doi.org/10.1007/s10163-020-01098-z)
 
-**Slip Forming** :octocat:
+**Slip Forming** :robot:
 ----------------
 
 The slip forming study concerned with the use of robot to deal with movable forms for the in-place casting of concrete structural components.
@@ -223,7 +223,7 @@ The slip forming study concerned with the use of robot to deal with movable form
 
 [Application of Robotic Arm Technology in Intelligent Construction. (2019)](https://doi.org/10.1007/978-981-13-8153-9_30)
 
-**Wall Painting** :octocat:
+**Wall Painting** :robot:
 -----------------
 
 The research works on wall painting focused on the development of robotic technologies to assist in the spraying of coloured paints on residential interior walls.
